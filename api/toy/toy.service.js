@@ -11,7 +11,7 @@ export const toyService = {
     update
 }
 async function query(filterBy={}) {
-	const {name,inStock,labels} = filterBy
+	const {name,inStock,labels,sortField} = filterBy
 try{
   const criteria = {}
 
@@ -20,9 +20,10 @@ if(inStock!=='') criteria.inStock = (inStock === 'true')
 if(labels.length>0) criteria.labels = { $in: labels}
 console.log(criteria);
 
-const sort = (filterBy.sort)?{
-    [filterBy.sort]: 1
+const sort = (sortField)?{
+    [sortField]: 1
 }: {}
+console.log(sort);
 
 const collection = await dbService.getCollection('toy')
 var toys = await collection.find(criteria).sort(sort).toArray()

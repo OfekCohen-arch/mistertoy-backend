@@ -4,11 +4,12 @@ import { log } from "console";
 
 export async function getToys(req, res) {
   try {
-    const {name,inStock,labels} = req.query
+    const {name,inStock,labels,sortField} = req.query
     const filterBy = {
       name: name || "",
       inStock: inStock,
-      labels: labels? labels.split(',') : []
+      labels: labels? labels.split(',') : [],
+      sortField: sortField || ""
     }
     const toys = await toyService.query(filterBy);
     res.json(toys);

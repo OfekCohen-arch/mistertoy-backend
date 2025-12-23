@@ -290,3 +290,14 @@
 24.12.2025, 0:29:37 - INFO - Server is running on port: 3030 
 24.12.2025, 0:29:56 - INFO - server.js loaded... 
 24.12.2025, 0:29:56 - INFO - Server is running on port: 3030 
+24.12.2025, 0:52:21 - DEBUG - auth.service - login with username: popo 
+24.12.2025, 0:52:21 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+24.12.2025, 0:52:30 - WARN - popo popoattempted to perform admin action 
+24.12.2025, 0:52:41 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 0:52:41 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+24.12.2025, 1:07:55 - INFO - server.js loaded... 
+24.12.2025, 1:07:55 - INFO - Server is running on port: 3030 
+24.12.2025, 1:13:01 - INFO - server.js loaded... 
+24.12.2025, 1:13:01 - INFO - Server is running on port: 3030 
+24.12.2025, 1:13:35 - INFO - server.js loaded... 
+24.12.2025, 1:13:35 - INFO - Server is running on port: 3030 
