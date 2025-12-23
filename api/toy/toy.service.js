@@ -16,14 +16,13 @@ try{
   const criteria = {}
 
 if(name) criteria.name = {$regex: name, $options: 'i'}
-if(inStock!=='') criteria.inStock = (inStock === 'true')
+if(inStock) criteria.inStock = (inStock === 'true')
 if(labels.length>0) criteria.labels = { $in: labels}
-console.log(criteria);
 
 const sort = (sortField)?{
     [sortField]: 1
 }: {}
-console.log(sort);
+
 
 const collection = await dbService.getCollection('toy')
 var toys = await collection.find(criteria).sort(sort).toArray()
