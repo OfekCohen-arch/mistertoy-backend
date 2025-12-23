@@ -195,3 +195,98 @@
 23.12.2025, 13:10:49 - INFO - Server is running on port: 3030 
 23.12.2025, 13:13:26 - INFO - server.js loaded... 
 23.12.2025, 13:13:26 - INFO - Server is running on port: 3030 
+23.12.2025, 13:23:51 - INFO - server.js loaded... 
+23.12.2025, 13:23:51 - INFO - Server is running on port: 3030 
+23.12.2025, 13:29:16 - INFO - server.js loaded... 
+23.12.2025, 13:29:16 - INFO - Server is running on port: 3030 
+23.12.2025, 22:47:05 - INFO - server.js loaded... 
+23.12.2025, 22:47:05 - INFO - Server is running on port: 3030 
+23.12.2025, 22:48:25 - INFO - server.js loaded... 
+23.12.2025, 22:48:25 - INFO - Server is running on port: 3030 
+23.12.2025, 22:48:39 - INFO - server.js loaded... 
+23.12.2025, 22:48:39 - INFO - Server is running on port: 3030 
+23.12.2025, 22:48:48 - INFO - server.js loaded... 
+23.12.2025, 22:48:48 - INFO - Server is running on port: 3030 
+23.12.2025, 22:50:13 - INFO - server.js loaded... 
+23.12.2025, 22:50:13 - INFO - Server is running on port: 3030 
+23.12.2025, 22:54:00 - INFO - server.js loaded... 
+23.12.2025, 22:54:00 - INFO - Server is running on port: 3030 
+23.12.2025, 22:54:37 - INFO - server.js loaded... 
+23.12.2025, 22:54:37 - INFO - Server is running on port: 3030 
+23.12.2025, 22:58:30 - INFO - server.js loaded... 
+23.12.2025, 22:58:30 - INFO - Server is running on port: 3030 
+23.12.2025, 23:01:48 - INFO - server.js loaded... 
+23.12.2025, 23:01:48 - INFO - Server is running on port: 3030 
+23.12.2025, 23:03:24 - INFO - server.js loaded... 
+23.12.2025, 23:03:24 - INFO - Server is running on port: 3030 
+23.12.2025, 23:25:00 - INFO - server.js loaded... 
+23.12.2025, 23:25:00 - INFO - Server is running on port: 3030 
+23.12.2025, 23:25:10 - INFO - server.js loaded... 
+23.12.2025, 23:25:10 - INFO - Server is running on port: 3030 
+23.12.2025, 23:26:14 - INFO - server.js loaded... 
+23.12.2025, 23:26:14 - INFO - Server is running on port: 3030 
+23.12.2025, 23:35:25 - DEBUG - auth.service - signup with username: Thomas, fullname: Thomas muller 
+23.12.2025, 23:35:25 - DEBUG - auth.route - new account created: {"username":"Thomas","password":"$2b$10$n9zB9vinP54.QwQ4Y8l56OC4JF.rLOIQygtHJIJrTsO5BK.l7fh2e","fullname":"Thomas muller","isAdmin":false,"_id":"694b0b1dd2b8f72580d122df"} 
+23.12.2025, 23:35:25 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:35:42 - DEBUG - auth.service - signup with username: Thomas, fullname: Thomas Muller 
+23.12.2025, 23:35:42 - ERROR - Failed to signup ReferenceError: loggerService is not defined 
+23.12.2025, 23:37:02 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:02 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:05 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:05 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:07 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:08 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:08 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:08 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:08 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:08 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:08 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:08 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:09 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:09 - INFO - User login:  | {"_id":"694b0b1dd2b8f72580d122df","username":"Thomas","fullname":"Thomas muller","isAdmin":false} 
+23.12.2025, 23:37:12 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:12 - ERROR - Failed to Login Error: Invalid username or password 
+23.12.2025, 23:37:38 - DEBUG - auth.service - login with username: Thomas 
+23.12.2025, 23:37:38 - ERROR - Failed to Login Error: Invalid username or password 
+23.12.2025, 23:38:16 - DEBUG - auth.service - signup with username: popo, fullname: popo popo 
+23.12.2025, 23:38:16 - DEBUG - auth.route - new account created: {"username":"popo","password":"$2b$10$3V59LBo5r8rTDel2Y64XO.9i68tfphiXUXNKmj4cdmDwcn1GKT8aq","fullname":"popo popo","isAdmin":false,"_id":"694b0bc8d2b8f72580d122e0"} 
+23.12.2025, 23:38:16 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:41:30 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:41:31 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:41:53 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:41:53 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:42:12 - DEBUG - auth.service - login with username: thomas 
+23.12.2025, 23:42:12 - ERROR - Failed to Login Error: Invalid username or password 
+23.12.2025, 23:46:43 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:46:43 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:47:29 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:47:29 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:49:50 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:49:50 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:50:08 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:50:08 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:51:33 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:51:33 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:54:23 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:54:23 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:54:34 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:54:34 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:56:46 - DEBUG - auth.service - login with username: popo 
+23.12.2025, 23:56:46 - INFO - User login:  | {"_id":"694b0bc8d2b8f72580d122e0","username":"popo","fullname":"popo popo","isAdmin":false} 
+23.12.2025, 23:59:57 - DEBUG - auth.service - signup with username: Thomas, fullname: Thomas Muller 
+23.12.2025, 23:59:57 - DEBUG - auth.route - new account created: {"username":"Thomas","password":"$2b$10$nZ0lr27KuXBF4X9yNnM6ruiOYMMIT3myYsJiOfeh/kRM6QTYnUcpK","fullname":"Thomas Muller","isAdmin":false,"_id":"694b10ddd2b8f72580d122e1"} 
+23.12.2025, 23:59:57 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 0:00:46 - DEBUG - auth.service - signup with username: Thomas, fullname: Thomas Muller 
+24.12.2025, 0:00:46 - ERROR - Failed to signup ReferenceError: loggerService is not defined 
+24.12.2025, 0:06:28 - INFO - server.js loaded... 
+24.12.2025, 0:06:28 - INFO - Server is running on port: 3030 
+24.12.2025, 0:06:59 - DEBUG - auth.service - login with username: thomas 
+24.12.2025, 0:06:59 - ERROR - Failed to Login Error: Invalid username or password 
+24.12.2025, 0:07:52 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 0:07:52 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+24.12.2025, 0:15:50 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 0:15:50 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+24.12.2025, 0:29:37 - INFO - server.js loaded... 
+24.12.2025, 0:29:37 - INFO - Server is running on port: 3030 
+24.12.2025, 0:29:56 - INFO - server.js loaded... 
+24.12.2025, 0:29:56 - INFO - Server is running on port: 3030 

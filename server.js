@@ -4,6 +4,8 @@ import cors from "cors";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
 import {toyRoutes} from './api/toy/toy.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
+import { authRoutes } from "./api/auth/auth.routes.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -20,7 +22,7 @@ app.use(express.static("public"));
 
 if (process.env.NODE_ENV === "production") {
   // Express serve static files on production environment
-  app.use(express.static(path.resolve(__dirname, "public/dist")));
+  app.use(express.static(path.resolve(__dirname, "public")));
   console.log("__dirname: ", __dirname);
 } else {
   // Configuring CORS
@@ -38,6 +40,9 @@ if (process.env.NODE_ENV === "production") {
   app.use(cors(corsOptions));
 }
 app.use("/api/toy", toyRoutes);
+app.use("/api/user", userRoutes)
+app.use("/api/auth",authRoutes)
+
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
