@@ -311,3 +311,40 @@
 24.12.2025, 1:47:35 - INFO - Server is running on port: 3030 
 24.12.2025, 1:48:06 - INFO - server.js loaded... 
 24.12.2025, 1:48:06 - INFO - Server is running on port: 3030 
+24.12.2025, 19:59:58 - INFO - Server is running on port: 3030 
+24.12.2025, 19:59:58 - INFO - server.js loaded... 
+24.12.2025, 20:00:09 - INFO - server.js loaded... 
+24.12.2025, 20:00:10 - INFO - Server is running on port: 3030 
+24.12.2025, 20:03:47 - INFO - server.js loaded... 
+24.12.2025, 20:03:47 - INFO - Server is running on port: 3030 
+24.12.2025, 20:05:19 - INFO - server.js loaded... 
+24.12.2025, 20:05:19 - INFO - Server is running on port: 3030 
+24.12.2025, 20:23:31 - INFO - server.js loaded... 
+24.12.2025, 20:23:31 - INFO - Server is running on port: 3030 
+24.12.2025, 20:24:22 - INFO - server.js loaded... 
+24.12.2025, 20:24:22 - INFO - Server is running on port: 3030 
+24.12.2025, 20:28:08 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 20:28:08 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+24.12.2025, 20:35:56 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:36:08 - DEBUG - auth.service - login with username: Thomas 
+24.12.2025, 20:36:08 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+24.12.2025, 20:36:24 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:37:24 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:39:56 - INFO - server.js loaded... 
+24.12.2025, 20:39:56 - INFO - Server is running on port: 3030 
+24.12.2025, 20:39:58 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:39:58 - ERROR - Cannot add message to toy | BSONError: hex string must be 24 characters 
+24.12.2025, 20:40:10 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:40:10 - ERROR - Cannot add message to toy | BSONError: hex string must be 24 characters 
+24.12.2025, 20:40:28 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:40:28 - ERROR - Cannot add message to toy | BSONError: hex string must be 24 characters 
+24.12.2025, 20:43:07 - INFO - server.js loaded... 
+24.12.2025, 20:43:07 - INFO - Server is running on port: 3030 
+24.12.2025, 20:43:25 - ERROR - Cannot add message to toy | BSONError: hex string must be 24 characters 
+24.12.2025, 20:43:25 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:43:47 - INFO - server.js loaded... 
+24.12.2025, 20:43:48 - INFO - Server is running on port: 3030 
+24.12.2025, 20:45:30 - ERROR - cannot add message to toy undefined | BSONError: hex string must be 24 characters 
+24.12.2025, 20:45:30 - ERROR - Cannot add message to toy | BSONError: hex string must be 24 characters 
+24.12.2025, 20:46:37 - INFO - Server is running on port: 3030 
+24.12.2025, 20:46:37 - INFO - server.js loaded... 
