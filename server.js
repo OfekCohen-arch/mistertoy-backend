@@ -11,6 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 import { logger } from "./services/logger.service.js";
+import { reviewsRoutes } from "./api/review/review.routes.js";
 logger.info("server.js loaded...");
 
 const app = express();
@@ -42,7 +43,7 @@ if (process.env.NODE_ENV === "production") {
 app.use("/api/toy", toyRoutes);
 app.use("/api/user", userRoutes)
 app.use("/api/auth",authRoutes)
-
+app.use('/api/review',reviewsRoutes)
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
