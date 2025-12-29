@@ -3,7 +3,13 @@ import { logger } from "../../services/logger.service.js";
 
 export async function getReviews(req, res) {
   try {
-    const reviews = await reviewService.query();
+    const {name,toyId,userId} = req.query
+    const filterBy = {
+      name: name || '',
+      toyId: toyId || '',
+      userId: userId || ''
+    }
+    const reviews = await reviewService.query(filterBy);
     res.json(reviews);
   } catch (err) {
     logger.error("cannot get reviews");
@@ -24,12 +30,10 @@ export async function getReviewById(req, res) {
 }
 
 export async function addReview(req, res) {
-    const { loggedinUser } = req
     try {
      const {review} = req.body  
-     const {toy} = req.body
-     review.userId = loggedinUser._id
-     review.toyId = toy._id 
+     const addedReview = await reviewService.add(review) 
+     res.json(addedReview)
     } catch (error) {
       logger.error("Failed to add review", err);
     res.status(500).send({ err: "Failed to add review" });  
