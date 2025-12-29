@@ -34,7 +34,7 @@ logger.error('Cannot find users',err)
     delete user.password
     return user
   } catch (err) {
-    loggerService.error(`while finding user ${userId}`, err)
+    logger.error(`while finding user ${userId}`, err)
     throw err
   }
 }
@@ -44,7 +44,7 @@ async function getByUsername(username) {
     const user = await collection.findOne({ username })
     return user
   } catch (err) {
-    loggerService.error(`while finding user ${username}`, err)
+    logger.error(`while finding user ${username}`, err)
     throw err
   }
 }
@@ -54,7 +54,7 @@ async function remove(userId) {
     const collection = await dbService.getCollection('user')
     await collection.deleteOne({ _id: ObjectId.createFromHexString(userId) })
   } catch (err) {
-    loggerService.error(`cannot remove user ${userId}`, err)
+    logger.error(`cannot remove user ${userId}`, err)
     throw err
   }
 }
@@ -71,7 +71,7 @@ async function update(user) {
     await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
     return userToSave
   } catch (err) {
-    loggerService.error(`cannot update user ${user._id}`, err)
+    logger.error(`cannot update user ${user._id}`, err)
     throw err
   }
 }
@@ -93,7 +93,7 @@ async function add(user) {
     await collection.insertOne(userToAdd)
     return userToAdd
   } catch (err) {
-    loggerService.error('cannot insert user', err)
+    logger.error('cannot insert user', err)
     throw err
   }
 }

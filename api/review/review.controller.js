@@ -1,5 +1,6 @@
 import { reviewService } from "../review/review.service.js";
 import { logger } from "../../services/logger.service.js";
+import { ObjectId } from "mongodb";
 
 export async function getReviews(req, res) {
   try {
@@ -31,7 +32,9 @@ export async function getReviewById(req, res) {
 
 export async function addReview(req, res) {
     try {
-     const {review} = req.body  
+     const review = req.body 
+     review.toyId = new ObjectId(review.toyId) 
+     review.userId = new ObjectId(review.userId)
      const addedReview = await reviewService.add(review) 
      res.json(addedReview)
     } catch (error) {

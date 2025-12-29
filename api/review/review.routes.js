@@ -6,5 +6,5 @@ export const reviewsRoutes = express.Router()
 
 reviewsRoutes.get('/',getReviews)
 reviewsRoutes.get('/:id',getReviewById)
-reviewsRoutes.post('/:id',requireAuth,addReview)
+reviewsRoutes.post('/',requireAuth,addReview)
 

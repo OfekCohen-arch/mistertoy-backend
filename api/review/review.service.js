@@ -3,7 +3,8 @@ import { dbService } from "../../services/db.service.js";
 import { logger } from "../../services/logger.service.js";
 import { log } from "console";
 import { utilService } from "../../services/util.service.js";
-
+import { userService } from "../user/user.service.js";
+import { toyService } from "../toy/toy.service.js"
 export const reviewService = {
   query,
   getById,
@@ -62,7 +63,18 @@ async function add(review) {
   try {
     const collection = await dbService.getCollection("review");
     await collection.insertOne(review);
-    return review;
+    const userId = review.userId.toString()
+    const toyId = review.toyId.toString()
+    const byUser = await userService.getById(userId)
+    const byToy = await toyService.getById(toyId)
+    const reviewToAdd = {
+     ...review,
+     byToy,
+     byUser
+    }
+    console.log(reviewToAdd);
+    
+    return reviewToAdd
   } catch (err) {
     logger.error("cannot add a review ", err);
     throw err;
