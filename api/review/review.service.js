@@ -84,8 +84,8 @@ async function add(review) {
 }
 function _buildCriteria(filterBy) {
   const criteria = {};
-  const { name, toyId, userId } = filterBy;
-  if (name) criteria.name = { $regex: name, $options: "i" };
+  const { toyId, userId } = filterBy;
+  //if (name) criteria.name = { $regex: name, $options: "i" };
   if (toyId) criteria.toyId = new ObjectId(toyId)
   if (userId) criteria.userId = new ObjectId(userId)
   return criteria;

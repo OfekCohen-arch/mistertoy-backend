@@ -4,10 +4,9 @@ import { ObjectId } from "mongodb";
 
 export async function getReviews(req, res) {
   try {
-    const {name,toyId,userId} = req.query
+    const {toyId,userId} = req.query
     
     const filterBy = {
-      name: name || '',
       toyId: toyId || '',
       userId: userId || ''
     }
