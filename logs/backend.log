@@ -520,3 +520,35 @@
 30.12.2025, 1:52:23 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
 30.12.2025, 1:55:34 - DEBUG - auth.service - login with username: Thomas 
 30.12.2025, 1:55:34 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+30.12.2025, 23:05:11 - DEBUG - auth.service - login with username: Thomas 
+30.12.2025, 23:05:11 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+30.12.2025, 23:05:20 - DEBUG - auth.service - login with username: popo 
+30.12.2025, 23:05:20 - ERROR - Failed to Login Error: Invalid username or password 
+30.12.2025, 23:05:38 - DEBUG - auth.service - login with username: popo 
+30.12.2025, 23:05:38 - ERROR - Failed to Login Error: Invalid username or password 
+30.12.2025, 23:06:00 - DEBUG - auth.service - signup with username: popo, fullname: popo popo 
+30.12.2025, 23:06:00 - ERROR - cannot insert user | Error: Username taken 
+30.12.2025, 23:06:00 - ERROR - Failed to signup Error: Username taken 
+30.12.2025, 23:06:07 - DEBUG - auth.service - login with username: popo 
+30.12.2025, 23:06:07 - ERROR - Failed to Login Error: Invalid username or password 
+30.12.2025, 23:06:36 - DEBUG - auth.service - signup with username: popo, fullname: popo popo 
+30.12.2025, 23:06:36 - DEBUG - auth.route - new account created: {"username":"popo","password":"$2b$10$1qKkOHyO3V5G8m3rYruN6uf1dNTQkREN0l0rxrgyq.bCWNk4FgOv2","fullname":"popo popo","isAdmin":false,"_id":"69543edc2342b32b936d9f59"} 
+30.12.2025, 23:06:36 - DEBUG - auth.service - login with username: popo 
+30.12.2025, 23:06:59 - DEBUG - auth.service - login with username: Thomas 
+30.12.2025, 23:07:00 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+30.12.2025, 23:48:37 - INFO - server.js loaded... 
+30.12.2025, 23:48:37 - INFO - Server is running on port: 3030 
+30.12.2025, 23:54:07 - DEBUG - auth.service - login with username: Thomas 
+30.12.2025, 23:54:07 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+30.12.2025, 23:57:00 - DEBUG - auth.service - login with username: popo 
+30.12.2025, 23:57:01 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+30.12.2025, 23:57:28 - DEBUG - auth.service - login with username: Thomas 
+30.12.2025, 23:57:28 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+30.12.2025, 23:59:11 - INFO - server.js loaded... 
+30.12.2025, 23:59:11 - INFO - Server is running on port: 3030 
+30.12.2025, 23:59:42 - INFO - server.js loaded... 
+30.12.2025, 23:59:42 - INFO - Server is running on port: 3030 
+31.12.2025, 0:00:07 - INFO - server.js loaded... 
+31.12.2025, 0:00:07 - INFO - Server is running on port: 3030 
+31.12.2025, 0:00:25 - INFO - server.js loaded... 
+31.12.2025, 0:00:25 - INFO - Server is running on port: 3030 
