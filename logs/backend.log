@@ -564,3 +564,20 @@
 31.12.2025, 0:47:18 - ERROR - cannot get reviews 
 31.12.2025, 0:47:29 - INFO - server.js loaded... 
 31.12.2025, 0:47:29 - INFO - Server is running on port: 3030 
+31.12.2025, 19:00:07 - DEBUG - auth.service - login with username: popo 
+31.12.2025, 19:00:07 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+31.12.2025, 19:00:35 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:01:03 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:01:27 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:01:42 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:01:48 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:16:37 - INFO - server.js loaded... 
+31.12.2025, 19:16:37 - INFO - Server is running on port: 3030 
+31.12.2025, 19:17:13 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 19:18:34 - DEBUG - auth.service - login with username: Thomas 
+31.12.2025, 19:18:35 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+31.12.2025, 19:24:33 - DEBUG - auth.service - login with username: popo 
+31.12.2025, 19:24:33 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+31.12.2025, 20:32:21 - WARN - popo popoattempted to perform admin action 
+31.12.2025, 20:32:35 - DEBUG - auth.service - login with username: Thomas 
+31.12.2025, 20:32:35 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 

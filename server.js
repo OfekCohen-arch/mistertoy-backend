@@ -2,6 +2,7 @@ import express from "express";
 import cookieParser from "cookie-parser";
 import cors from "cors";
 import path, { dirname } from "path";
+import http from "http"
 import { fileURLToPath } from "url";
 import {toyRoutes} from './api/toy/toy.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
@@ -12,10 +13,11 @@ const __dirname = dirname(__filename);
 
 import { logger } from "./services/logger.service.js";
 import { reviewsRoutes } from "./api/review/review.routes.js";
+import { setupSocketAPI } from "./services/socket.service.js";
 logger.info("server.js loaded...");
 
 const app = express();
-
+const server = http.createServer(app)
 // Express App Config
 app.use(cookieParser());
 app.use(express.json());
@@ -44,6 +46,7 @@ app.use("/api/toy", toyRoutes);
 app.use("/api/user", userRoutes)
 app.use("/api/auth",authRoutes)
 app.use('/api/review',reviewsRoutes)
+setupSocketAPI(server)
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
