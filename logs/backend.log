@@ -971,3 +971,299 @@
 4.1.2026, 3:05:14 - INFO - New connected socket [id: pckYbaAyipGhha-gAAAL] 
 4.1.2026, 3:05:14 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: pckYbaAyipGhha-gAAAL] 
 4.1.2026, 3:05:24 - INFO - New review added 
+4.1.2026, 3:08:12 - INFO - server.js loaded... 
+4.1.2026, 3:08:12 - INFO - Server is running on port: 3030 
+4.1.2026, 3:08:12 - INFO - Server is running on port: 3030 
+4.1.2026, 3:08:14 - INFO - New connected socket [id: eCsSgl5SfuosPt-MAAAC] 
+4.1.2026, 3:08:14 - INFO - New connected socket [id: FvrUfK-_imo1yFvwAAAD] 
+4.1.2026, 3:09:56 - INFO - New connected socket [id: Zc_ZZxzo_XBrQQMNAAAF] 
+4.1.2026, 3:09:56 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Zc_ZZxzo_XBrQQMNAAAF] 
+4.1.2026, 3:09:56 - INFO - New connected socket [id: dtgjrN9BpyV4kyLvAAAH] 
+4.1.2026, 3:09:56 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: dtgjrN9BpyV4kyLvAAAH] 
+4.1.2026, 3:10:49 - INFO - New connected socket [id: bty-UazljAhzNPyaAAAJ] 
+4.1.2026, 3:10:49 - INFO - New connected socket [id: c9YZBMxAwWConKmkAAAL] 
+4.1.2026, 3:10:49 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: bty-UazljAhzNPyaAAAJ] 
+4.1.2026, 3:10:49 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: c9YZBMxAwWConKmkAAAL] 
+4.1.2026, 3:20:17 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:20:17 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:20:17 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:20:19 - INFO - New connected socket [id: nGHL1mfwiEYjJ0pPAAAN] 
+4.1.2026, 3:20:19 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: nGHL1mfwiEYjJ0pPAAAN] 
+4.1.2026, 3:20:38 - INFO - New toy added 
+4.1.2026, 3:20:48 - WARN - popo popoattempted to perform admin action 
+4.1.2026, 3:21:09 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:21:09 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:21:09 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:21:13 - INFO - New connected socket [id: C540zXtfu0n5AObdAAAP] 
+4.1.2026, 3:21:13 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: C540zXtfu0n5AObdAAAP] 
+4.1.2026, 3:21:42 - INFO - New toy added 
+4.1.2026, 3:22:28 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:22:30 - INFO - New connected socket [id: ouiayPHw3ejWMKaFAAAR] 
+4.1.2026, 3:22:30 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ouiayPHw3ejWMKaFAAAR] 
+4.1.2026, 3:22:37 - INFO - New toy added 
+4.1.2026, 3:23:16 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:23:25 - INFO - New connected socket [id: SrY6WwxlCw-xlSMAAAAT] 
+4.1.2026, 3:23:32 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:23:35 - INFO - New connected socket [id: BSZYTtmZwSDII12EAAAV] 
+4.1.2026, 3:23:35 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: BSZYTtmZwSDII12EAAAV] 
+4.1.2026, 3:23:46 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:23:49 - INFO - New connected socket [id: P2Ik4-BCLp6VDV8bAAAX] 
+4.1.2026, 3:23:49 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: P2Ik4-BCLp6VDV8bAAAX] 
+4.1.2026, 3:24:05 - INFO - New toy added 
+4.1.2026, 3:24:38 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:24:45 - INFO - New connected socket [id: g-qCZKb8vUs2I_FsAAAZ] 
+4.1.2026, 3:33:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:33:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:33:57 - INFO - New connected socket [id: _NeoQMD4WvWCrpDkAAAb] 
+4.1.2026, 3:33:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:33:58 - INFO - New connected socket [id: 01jl_CRzA0MoGCjhAAAd] 
+4.1.2026, 3:33:58 - INFO - New connected socket [id: qTuCQ-biYYvUoDGVAAAf] 
+4.1.2026, 3:33:58 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: 01jl_CRzA0MoGCjhAAAd] 
+4.1.2026, 3:35:04 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:35:04 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:35:07 - INFO - New connected socket [id: nYbXPLwen9wKfZjkAAAi] 
+4.1.2026, 3:35:07 - INFO - New connected socket [id: CsVBVzWvIsiqHiw1AAAj] 
+4.1.2026, 3:35:07 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: CsVBVzWvIsiqHiw1AAAj] 
+4.1.2026, 3:36:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:36:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 6:09:56 - INFO - New connected socket [id: x_OG4GFaCwOyp9OcAAAl] 
+4.1.2026, 6:09:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 6:09:57 - INFO - New connected socket [id: oCcIL9w5zOsslQfaAAAn] 
+4.1.2026, 6:10:09 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:18:14 - INFO - New connected socket [id: nXESZ3Hvxp-3qXj5AAAp] 
+4.1.2026, 15:18:15 - INFO - New connected socket [id: ai9DFLDaHgl7Gi5oAAAr] 
+4.1.2026, 15:18:24 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:18:25 - INFO - New connected socket [id: 4R9bFySQOcAwqWQXAAAt] 
+4.1.2026, 15:18:39 - INFO - New toy added 
+4.1.2026, 15:18:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:18:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:18:59 - INFO - New connected socket [id: Z32LzIoCOk8tOKp7AAAv] 
+4.1.2026, 15:19:33 - DEBUG - auth.service - login with username: Thomas 
+4.1.2026, 15:19:33 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+4.1.2026, 15:20:11 - INFO - New toy added 
+4.1.2026, 15:20:56 - INFO - New toy added 
+4.1.2026, 15:21:54 - INFO - New connected socket [id: CMr3D2vTRaKQvFTrAAAx] 
+4.1.2026, 15:21:54 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:21:54 - INFO - New connected socket [id: JLzaDirtKDPxiV0eAAAz] 
+4.1.2026, 15:21:54 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: JLzaDirtKDPxiV0eAAAz] 
+4.1.2026, 15:22:06 - INFO - New toy added 
+4.1.2026, 15:22:15 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:22:15 - INFO - New connected socket [id: jSM27zRWS1ovJtdYAAA1] 
+4.1.2026, 15:22:15 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: jSM27zRWS1ovJtdYAAA1] 
+4.1.2026, 15:22:20 - WARN - popo popoattempted to perform admin action 
+4.1.2026, 15:22:37 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:22:37 - INFO - New connected socket [id: cpoFKQbQYBU95glNAAA3] 
+4.1.2026, 15:22:37 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: cpoFKQbQYBU95glNAAA3] 
+4.1.2026, 15:24:47 - INFO - New toy added 
+4.1.2026, 15:30:53 - INFO - New connected socket [id: Tw-o4WbmOkshJIksAAA6] 
+4.1.2026, 15:30:53 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Tw-o4WbmOkshJIksAAA6] 
+4.1.2026, 15:30:53 - INFO - New connected socket [id: a7JG6F6HDPTljO1xAAA7] 
+4.1.2026, 15:30:53 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: a7JG6F6HDPTljO1xAAA7] 
+4.1.2026, 15:31:30 - INFO - server.js loaded... 
+4.1.2026, 15:31:30 - INFO - Server is running on port: 3030 
+4.1.2026, 15:31:30 - INFO - Server is running on port: 3030 
+4.1.2026, 15:31:32 - INFO - New connected socket [id: inMKte1ReCFPvroxAAAE] 
+4.1.2026, 15:31:32 - INFO - New connected socket [id: xg3n0ztNPMBB6UWKAAAF] 
+4.1.2026, 15:31:32 - INFO - New connected socket [id: 1jpj7eOrqF9N04cqAAAH] 
+4.1.2026, 15:31:32 - INFO - New connected socket [id: 3t88HhSLMpy_t4xNAAAG] 
+4.1.2026, 15:34:41 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:34:41 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:37:16 - INFO - Toys updated 
+4.1.2026, 15:37:17 - INFO - Toys updated 
+4.1.2026, 15:37:23 - INFO - Toys updated 
+4.1.2026, 15:37:24 - INFO - Toys updated 
+4.1.2026, 15:37:57 - INFO - New connected socket [id: 0UBpHNJmlUCUqp-BAAAJ] 
+4.1.2026, 15:37:57 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 0UBpHNJmlUCUqp-BAAAJ] 
+4.1.2026, 15:37:57 - INFO - Toys updated 
+4.1.2026, 15:37:57 - INFO - Toys updated 
+4.1.2026, 15:37:57 - INFO - Toys updated 
+4.1.2026, 15:38:04 - INFO - Toys updated 
+4.1.2026, 15:38:07 - INFO - Toys updated 
+4.1.2026, 15:38:25 - INFO - Toys updated 
+4.1.2026, 15:38:25 - INFO - Toys updated 
+4.1.2026, 15:38:26 - INFO - Toys updated 
+4.1.2026, 15:40:42 - INFO - Toys updated 
+4.1.2026, 15:41:06 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:41:06 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:41:06 - INFO - New connected socket [id: F0HaIWjPIyf5EzHkAAAL] 
+4.1.2026, 15:41:07 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: F0HaIWjPIyf5EzHkAAAL] 
+4.1.2026, 15:41:07 - INFO - Toys updated 
+4.1.2026, 15:41:07 - INFO - Toys updated 
+4.1.2026, 15:41:17 - INFO - Toys updated 
+4.1.2026, 15:41:17 - INFO - Toys updated 
+4.1.2026, 15:42:01 - INFO - Toys updated 
+4.1.2026, 15:43:49 - INFO - Toys updated 
+4.1.2026, 15:43:49 - INFO - Toys updated 
+4.1.2026, 15:45:17 - INFO - Toys updated 
+4.1.2026, 15:45:56 - INFO - Toys updated 
+4.1.2026, 15:45:56 - INFO - Toys updated 
+4.1.2026, 15:45:59 - INFO - Toys updated 
+4.1.2026, 15:45:59 - INFO - Toys updated 
+4.1.2026, 15:46:14 - INFO - Socket is leaving topic toys [id: F0HaIWjPIyf5EzHkAAAL] 
+4.1.2026, 15:46:22 - INFO - New review added 
+4.1.2026, 15:46:27 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:46:28 - INFO - New connected socket [id: 7EWnByu9gbbErLkIAAAN] 
+4.1.2026, 15:46:28 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 7EWnByu9gbbErLkIAAAN] 
+4.1.2026, 15:53:03 - INFO - server.js loaded... 
+4.1.2026, 15:53:03 - INFO - Server is running on port: 3030 
+4.1.2026, 15:53:03 - INFO - Server is running on port: 3030 
+4.1.2026, 15:53:04 - INFO - New connected socket [id: YiVazJdQxF8orcutAAAC] 
+4.1.2026, 15:53:04 - INFO - New connected socket [id: 1Phl_ipnf63xi3AGAAAD] 
+4.1.2026, 15:54:35 - INFO - New connected socket [id: Y7AWD1TWLsvdTYs9AAAF] 
+4.1.2026, 15:54:35 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Y7AWD1TWLsvdTYs9AAAF] 
+4.1.2026, 15:54:39 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:55:28 - INFO - New connected socket [id: SLG-0JXvXC91m97qAAAH] 
+4.1.2026, 15:55:28 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: SLG-0JXvXC91m97qAAAH] 
+4.1.2026, 15:57:37 - INFO - New connected socket [id: gTbdXgbiLENrgWVkAAAJ] 
+4.1.2026, 15:57:37 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: gTbdXgbiLENrgWVkAAAJ] 
+4.1.2026, 15:57:38 - INFO - New connected socket [id: IL47pR6Ee5Vp6KxbAAAL] 
+4.1.2026, 15:57:44 - INFO - New review added 
+4.1.2026, 15:58:06 - INFO - Toys updated 
+4.1.2026, 15:58:07 - INFO - Toys updated 
+4.1.2026, 15:58:07 - INFO - Socket is leaving topic toys [id: SLG-0JXvXC91m97qAAAH] 
+4.1.2026, 15:59:05 - INFO - Reviews updated 
+4.1.2026, 15:59:05 - INFO - Reviews updated 
+4.1.2026, 15:59:10 - INFO - New review added 
+4.1.2026, 15:59:18 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:59:18 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 15:59:18 - INFO - New connected socket [id: mshEEtdhF_BHq3mtAAAN] 
+4.1.2026, 15:59:18 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: mshEEtdhF_BHq3mtAAAN] 
+4.1.2026, 15:59:18 - INFO - Reviews updated 
+4.1.2026, 15:59:18 - INFO - Reviews updated 
+4.1.2026, 16:00:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:00:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:00:56 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:00:58 - INFO - New connected socket [id: SvN1XRjmjmbgVLlFAAAP] 
+4.1.2026, 16:00:58 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: SvN1XRjmjmbgVLlFAAAP] 
+4.1.2026, 16:01:02 - INFO - Reviews updated 
+4.1.2026, 16:01:02 - INFO - Reviews updated 
+4.1.2026, 16:01:02 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: SvN1XRjmjmbgVLlFAAAP] 
+4.1.2026, 16:01:13 - INFO - Toys updated 
+4.1.2026, 16:01:13 - INFO - Socket is leaving topic reviews [id: SvN1XRjmjmbgVLlFAAAP] 
+4.1.2026, 16:01:13 - INFO - Toys updated 
+4.1.2026, 16:01:14 - INFO - Socket is leaving topic toys [id: SvN1XRjmjmbgVLlFAAAP] 
+4.1.2026, 16:01:32 - INFO - New review added 
+4.1.2026, 16:02:19 - INFO - New review added 
+4.1.2026, 16:02:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:02:21 - INFO - New connected socket [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:02:21 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:02:21 - INFO - Reviews updated 
+4.1.2026, 16:02:21 - INFO - Reviews updated 
+4.1.2026, 16:02:29 - INFO - New review added 
+4.1.2026, 16:07:04 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:07:07 - INFO - New connected socket [id: U-ogw9kZ_fPHfgCnAAAT] 
+4.1.2026, 16:07:07 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: U-ogw9kZ_fPHfgCnAAAT] 
+4.1.2026, 16:07:15 - INFO - Toys updated 
+4.1.2026, 16:07:15 - INFO - Toys updated 
+4.1.2026, 16:07:15 - INFO - Socket is leaving topic reviews [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:07:20 - INFO - Reviews updated 
+4.1.2026, 16:07:20 - INFO - Socket is leaving topic toys [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:07:20 - INFO - Reviews updated 
+4.1.2026, 16:07:26 - INFO - Reviews updated 
+4.1.2026, 16:07:26 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: U-ogw9kZ_fPHfgCnAAAT] 
+4.1.2026, 16:07:26 - INFO - Reviews updated 
+4.1.2026, 16:07:37 - INFO - Toys updated 
+4.1.2026, 16:07:37 - INFO - Socket is leaving topic reviews [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:07:37 - INFO - Toys updated 
+4.1.2026, 16:07:38 - INFO - Socket is leaving topic toys [id: KLMKXy53yLILeh4pAAAR] 
+4.1.2026, 16:07:41 - INFO - New review added 
+4.1.2026, 16:12:00 - INFO - New review added 
+4.1.2026, 16:15:37 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:16:52 - INFO - New connected socket [id: 0Vl76iVLQT5qqKXWAAAV] 
+4.1.2026, 16:16:55 - INFO - New review added 
+4.1.2026, 16:16:55 - INFO - Reviews updated 
+4.1.2026, 16:16:55 - INFO - Socket is leaving topic reviews [id: 0Vl76iVLQT5qqKXWAAAV] 
+4.1.2026, 16:17:37 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:17:39 - INFO - New connected socket [id: nIuoiugAT88leEp6AAAX] 
+4.1.2026, 16:17:40 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: nIuoiugAT88leEp6AAAX] 
+4.1.2026, 16:17:40 - INFO - Reviews updated 
+4.1.2026, 16:17:40 - INFO - Reviews updated 
+4.1.2026, 16:17:45 - INFO - New review added 
+4.1.2026, 16:17:49 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:17:52 - INFO - New connected socket [id: doAqdEAMzcxZTfwDAAAZ] 
+4.1.2026, 16:17:52 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: doAqdEAMzcxZTfwDAAAZ] 
+4.1.2026, 16:17:52 - INFO - Reviews updated 
+4.1.2026, 16:17:52 - INFO - Reviews updated 
+4.1.2026, 16:18:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:18:13 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:18:14 - INFO - New connected socket [id: -M7_IuCleX-1rbd-AAAb] 
+4.1.2026, 16:18:14 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: -M7_IuCleX-1rbd-AAAb] 
+4.1.2026, 16:18:16 - INFO - New connected socket [id: KA8dHDMxx8Tf5evvAAAd] 
+4.1.2026, 16:18:17 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: KA8dHDMxx8Tf5evvAAAd] 
+4.1.2026, 16:18:17 - INFO - Reviews updated 
+4.1.2026, 16:18:17 - INFO - Reviews updated 
+4.1.2026, 16:20:02 - INFO - New review added 
+4.1.2026, 16:20:07 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:20:10 - INFO - New connected socket [id: GxooVkF7hKADLzKXAAAf] 
+4.1.2026, 16:20:10 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: GxooVkF7hKADLzKXAAAf] 
+4.1.2026, 16:20:10 - INFO - Reviews updated 
+4.1.2026, 16:20:10 - INFO - Reviews updated 
+4.1.2026, 16:20:25 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:20:25 - INFO - New connected socket [id: 1LCWf7UDjoxjzF5CAAAh] 
+4.1.2026, 16:20:25 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: 1LCWf7UDjoxjzF5CAAAh] 
+4.1.2026, 16:22:35 - INFO - server.js loaded... 
+4.1.2026, 16:22:35 - INFO - Server is running on port: 3030 
+4.1.2026, 16:22:35 - INFO - Server is running on port: 3030 
+4.1.2026, 16:22:35 - INFO - New connected socket [id: AJgwO949YgUwBe7fAAAC] 
+4.1.2026, 16:22:35 - INFO - New connected socket [id: wIFe8wkdB5vLf2_iAAAD] 
+4.1.2026, 16:22:46 - INFO - New review added 
+4.1.2026, 16:22:53 - INFO - New review added 
+4.1.2026, 16:22:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:22:57 - INFO - New connected socket [id: YGPrkok5x7QxAi1PAAAF] 
+4.1.2026, 16:22:57 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: YGPrkok5x7QxAi1PAAAF] 
+4.1.2026, 16:23:28 - INFO - server.js loaded... 
+4.1.2026, 16:23:28 - INFO - Server is running on port: 3030 
+4.1.2026, 16:23:28 - INFO - Server is running on port: 3030 
+4.1.2026, 16:23:28 - INFO - New connected socket [id: UsRvU-GI4u-G11KwAAAB] 
+4.1.2026, 16:23:29 - INFO - New connected socket [id: wZsN0iAq8zLwcgp6AAAD] 
+4.1.2026, 16:23:34 - INFO - New review added 
+4.1.2026, 16:23:39 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:23:41 - INFO - New connected socket [id: Co-IThRmoIqH9-B6AAAF] 
+4.1.2026, 16:23:41 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Co-IThRmoIqH9-B6AAAF] 
+4.1.2026, 16:23:41 - INFO - Reviews updated 
+4.1.2026, 16:23:41 - INFO - Reviews updated 
+4.1.2026, 16:24:26 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:24:28 - INFO - New connected socket [id: -9zJNtBdMrn4EDlDAAAH] 
+4.1.2026, 16:24:29 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: -9zJNtBdMrn4EDlDAAAH] 
+4.1.2026, 16:24:29 - INFO - Reviews updated 
+4.1.2026, 16:24:29 - INFO - Reviews updated 
+4.1.2026, 16:24:31 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:24:31 - INFO - New connected socket [id: XznkhYXztwl1IidUAAAJ] 
+4.1.2026, 16:24:31 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: XznkhYXztwl1IidUAAAJ] 
+4.1.2026, 16:24:48 - INFO - New review added 
+4.1.2026, 16:24:53 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:24:55 - INFO - New connected socket [id: mjvskmnE8R1jJ2RuAAAL] 
+4.1.2026, 16:24:55 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: mjvskmnE8R1jJ2RuAAAL] 
+4.1.2026, 16:24:55 - INFO - Reviews updated 
+4.1.2026, 16:24:55 - INFO - Reviews updated 
+4.1.2026, 16:25:03 - INFO - server.js loaded... 
+4.1.2026, 16:25:03 - INFO - Server is running on port: 3030 
+4.1.2026, 16:25:03 - INFO - Server is running on port: 3030 
+4.1.2026, 16:25:04 - INFO - New connected socket [id: ZZnUxdY4y1iBXq9lAAAB] 
+4.1.2026, 16:25:05 - INFO - New connected socket [id: rFJKrjyQw95rn5iPAAAD] 
+4.1.2026, 16:25:14 - INFO - New review added 
+4.1.2026, 16:25:20 - INFO - New review added 
+4.1.2026, 16:25:31 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:25:34 - INFO - New connected socket [id: W7kceuxv7X0nkdizAAAF] 
+4.1.2026, 16:25:34 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: W7kceuxv7X0nkdizAAAF] 
+4.1.2026, 16:25:34 - INFO - Reviews updated 
+4.1.2026, 16:25:34 - INFO - Reviews updated 
+4.1.2026, 16:27:03 - INFO - server.js loaded... 
+4.1.2026, 16:27:03 - INFO - Server is running on port: 3030 
+4.1.2026, 16:27:03 - INFO - Server is running on port: 3030 
+4.1.2026, 16:27:04 - INFO - New connected socket [id: VKbf0SzurV3SwuQmAAAB] 
+4.1.2026, 16:27:04 - INFO - New connected socket [id: lr43ZmjqmFdERsr2AAAD] 
+4.1.2026, 16:27:05 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:27:07 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:27:08 - INFO - New connected socket [id: yaBhUL2Q4FMCe6fAAAAF] 
+4.1.2026, 16:27:08 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: yaBhUL2Q4FMCe6fAAAAF] 
+4.1.2026, 16:27:10 - INFO - New connected socket [id: N2vjC9CHjNA-q9WJAAAH] 
+4.1.2026, 16:27:10 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: N2vjC9CHjNA-q9WJAAAH] 
+4.1.2026, 16:27:10 - INFO - Reviews updated 
+4.1.2026, 16:27:10 - INFO - Reviews updated 
+4.1.2026, 16:27:13 - INFO - New review added 
+4.1.2026, 16:27:33 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 16:27:35 - INFO - New connected socket [id: 1IxvxGe7itBUYQrSAAAJ] 
+4.1.2026, 16:27:36 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 1IxvxGe7itBUYQrSAAAJ] 
+4.1.2026, 16:27:36 - INFO - Reviews updated 
+4.1.2026, 16:27:36 - INFO - Reviews updated 
