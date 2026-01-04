@@ -581,3 +581,393 @@
 31.12.2025, 20:32:21 - WARN - popo popoattempted to perform admin action 
 31.12.2025, 20:32:35 - DEBUG - auth.service - login with username: Thomas 
 31.12.2025, 20:32:35 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+3.1.2026, 23:46:59 - INFO - Server is running on port: 3030 
+3.1.2026, 23:46:59 - INFO - server.js loaded... 
+3.1.2026, 23:50:26 - INFO - server.js loaded... 
+3.1.2026, 23:50:26 - INFO - Server is running on port: 3030 
+3.1.2026, 23:52:28 - INFO - server.js loaded... 
+3.1.2026, 23:52:28 - INFO - Server is running on port: 3030 
+3.1.2026, 23:52:44 - INFO - server.js loaded... 
+3.1.2026, 23:52:44 - INFO - Server is running on port: 3030 
+3.1.2026, 23:53:13 - INFO - server.js loaded... 
+3.1.2026, 23:53:13 - INFO - Server is running on port: 3030 
+3.1.2026, 23:55:22 - INFO - server.js loaded... 
+3.1.2026, 23:55:22 - INFO - Server is running on port: 3030 
+3.1.2026, 23:55:44 - INFO - server.js loaded... 
+3.1.2026, 23:55:45 - INFO - Server is running on port: 3030 
+4.1.2026, 0:00:03 - INFO - server.js loaded... 
+4.1.2026, 0:00:03 - INFO - Server is running on port: 3030 
+4.1.2026, 0:00:03 - INFO - Server is running on port: 3030 
+4.1.2026, 0:00:06 - INFO - New connected socket [id: buE5Br9G0zh369kFAAAB] 
+4.1.2026, 0:00:06 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: buE5Br9G0zh369kFAAAB] 
+4.1.2026, 0:00:14 - INFO - server.js loaded... 
+4.1.2026, 0:00:14 - INFO - Server is running on port: 3030 
+4.1.2026, 0:00:14 - INFO - Server is running on port: 3030 
+4.1.2026, 0:00:14 - INFO - New connected socket [id: _Zy1jNYTSvyy7cuPAAAB] 
+4.1.2026, 0:00:18 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:00:21 - INFO - New connected socket [id: pRUVKstxDIl3RpbwAAAD] 
+4.1.2026, 0:00:21 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: pRUVKstxDIl3RpbwAAAD] 
+4.1.2026, 0:06:38 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:06:40 - INFO - New connected socket [id: 0YhYqPUoBXbZ4kIpAAAF] 
+4.1.2026, 0:06:40 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:06:44 - INFO - New connected socket [id: zsrjpd8oStINHzjzAAAH] 
+4.1.2026, 0:06:45 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: zsrjpd8oStINHzjzAAAH] 
+4.1.2026, 0:09:35 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:09:40 - INFO - New connected socket [id: I6msNJx3kRvsjhGjAAAJ] 
+4.1.2026, 0:09:40 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: I6msNJx3kRvsjhGjAAAJ] 
+4.1.2026, 0:10:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:15:10 - INFO - New connected socket [id: UIa-Lst8RC5awvfnAAAL] 
+4.1.2026, 0:15:10 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: UIa-Lst8RC5awvfnAAAL] 
+4.1.2026, 0:15:10 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:15:12 - INFO - New connected socket [id: k0S71ocJrSMgFUl8AAAN] 
+4.1.2026, 0:15:12 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: k0S71ocJrSMgFUl8AAAN] 
+4.1.2026, 0:25:39 - INFO - New connected socket [id: h-EW8pHlXzf-zYCWAAAP] 
+4.1.2026, 0:25:50 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 0:25:50 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 0:26:08 - INFO - New chat msg from socket [id: h-EW8pHlXzf-zYCWAAAP], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:26:18 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:26:20 - INFO - New connected socket [id: fJh5jJcCs7HB2JNTAAAR] 
+4.1.2026, 0:26:20 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: fJh5jJcCs7HB2JNTAAAR] 
+4.1.2026, 0:26:27 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:26:29 - INFO - New connected socket [id: 2Cw7eWqsP9nJG58EAAAT] 
+4.1.2026, 0:26:29 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 2Cw7eWqsP9nJG58EAAAT] 
+4.1.2026, 0:27:33 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 0:27:34 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 0:28:53 - INFO - New chat msg from socket [id: fJh5jJcCs7HB2JNTAAAR], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:28:58 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:29:00 - INFO - New connected socket [id: CPCSZPOBcC2iZcXVAAAV] 
+4.1.2026, 0:29:00 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: CPCSZPOBcC2iZcXVAAAV] 
+4.1.2026, 0:29:15 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:29:18 - INFO - New chat msg from socket [id: 2Cw7eWqsP9nJG58EAAAT], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:29:51 - INFO - New chat msg from socket [id: 2Cw7eWqsP9nJG58EAAAT], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:30:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:30:13 - INFO - New connected socket [id: ERz8iRoMJtEiRtiyAAAX] 
+4.1.2026, 0:30:13 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ERz8iRoMJtEiRtiyAAAX] 
+4.1.2026, 0:30:52 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:30:55 - INFO - New connected socket [id: 220cp5KwqmXigMgBAAAZ] 
+4.1.2026, 0:30:55 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 220cp5KwqmXigMgBAAAZ] 
+4.1.2026, 0:30:59 - INFO - New chat msg from socket [id: 220cp5KwqmXigMgBAAAZ], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:31:24 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:31:26 - INFO - New connected socket [id: 2qWUTb1H3gl7wJNoAAAb] 
+4.1.2026, 0:31:26 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 2qWUTb1H3gl7wJNoAAAb] 
+4.1.2026, 0:40:42 - INFO - New chat msg from socket [id: 2qWUTb1H3gl7wJNoAAAb], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 0:40:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:40:47 - INFO - New connected socket [id: LHMLnmtPY358wrD2AAAd] 
+4.1.2026, 0:40:47 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: LHMLnmtPY358wrD2AAAd] 
+4.1.2026, 0:47:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:47:24 - INFO - New connected socket [id: bRkN7RZBPHVHS10_AAAf] 
+4.1.2026, 0:47:24 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: bRkN7RZBPHVHS10_AAAf] 
+4.1.2026, 0:47:54 - INFO - New connected socket [id: dddWl7W3pOR0Bf7BAAAh] 
+4.1.2026, 0:47:54 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: dddWl7W3pOR0Bf7BAAAh] 
+4.1.2026, 0:47:59 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:47:59 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 0:48:02 - INFO - New connected socket [id: VpoS3f3oGLLW7ggHAAAj] 
+4.1.2026, 0:48:02 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: VpoS3f3oGLLW7ggHAAAj] 
+4.1.2026, 0:48:12 - INFO - New connected socket [id: _6km3VauMWL44pbtAAAl] 
+4.1.2026, 0:48:12 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: _6km3VauMWL44pbtAAAl] 
+4.1.2026, 0:52:19 - DEBUG - auth.service - login with username: Thomas 
+4.1.2026, 0:52:19 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+4.1.2026, 0:56:03 - INFO - New connected socket [id: Jc5y07QpHZom-7FPAAAn] 
+4.1.2026, 0:56:03 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Jc5y07QpHZom-7FPAAAn] 
+4.1.2026, 0:57:00 - INFO - New connected socket [id: lJouPSYvsz3U-ISlAAAp] 
+4.1.2026, 0:57:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: lJouPSYvsz3U-ISlAAAp] 
+4.1.2026, 1:00:41 - INFO - New connected socket [id: a8G7NwEy05LkT4VXAAAr] 
+4.1.2026, 1:00:41 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: a8G7NwEy05LkT4VXAAAr] 
+4.1.2026, 1:01:42 - INFO - New chat msg from socket [id: a8G7NwEy05LkT4VXAAAr], emitting to topic undefined 
+4.1.2026, 1:01:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:01:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:01:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:01:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:01:44 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:01:46 - INFO - New connected socket [id: vdi16SEM-pV4C_8HAAAt] 
+4.1.2026, 1:01:46 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: vdi16SEM-pV4C_8HAAAt] 
+4.1.2026, 1:02:26 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:02:28 - INFO - New connected socket [id: 65EO0IzXLlKqk-VdAAAv] 
+4.1.2026, 1:02:28 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 65EO0IzXLlKqk-VdAAAv] 
+4.1.2026, 1:02:35 - INFO - New chat msg from socket [id: 65EO0IzXLlKqk-VdAAAv], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:06:30 - INFO - New chat msg from socket [id: 65EO0IzXLlKqk-VdAAAv], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:06:32 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:06:34 - INFO - New connected socket [id: 7zHc9JMlB2n2eiFBAAAx] 
+4.1.2026, 1:06:34 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 7zHc9JMlB2n2eiFBAAAx] 
+4.1.2026, 1:09:15 - INFO - New connected socket [id: hPDwVno7aDpHBwi_AAAz] 
+4.1.2026, 1:09:15 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: hPDwVno7aDpHBwi_AAAz] 
+4.1.2026, 1:10:59 - INFO - server.js loaded... 
+4.1.2026, 1:10:59 - INFO - Server is running on port: 3030 
+4.1.2026, 1:10:59 - INFO - Server is running on port: 3030 
+4.1.2026, 1:10:59 - INFO - New connected socket [id: SxlRspTxClgm554UAAAC] 
+4.1.2026, 1:10:59 - INFO - New connected socket [id: SOXzdCViij3wvHt1AAAD] 
+4.1.2026, 1:11:07 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:11:07 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:11:09 - INFO - New connected socket [id: GaRzOhLzSYNKM8DdAAAF] 
+4.1.2026, 1:11:09 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: GaRzOhLzSYNKM8DdAAAF] 
+4.1.2026, 1:11:24 - INFO - New chat msg from socket [id: GaRzOhLzSYNKM8DdAAAF], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:11:40 - INFO - New connected socket [id: aNmAZfYtcRepXAt6AAAH] 
+4.1.2026, 1:11:40 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: aNmAZfYtcRepXAt6AAAH] 
+4.1.2026, 1:11:46 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 1:11:46 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 1:11:56 - INFO - New chat msg from socket [id: GaRzOhLzSYNKM8DdAAAF], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:12:53 - INFO - New chat msg from socket [id: aNmAZfYtcRepXAt6AAAH], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:13:36 - INFO - New chat msg from socket [id: GaRzOhLzSYNKM8DdAAAF], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:14:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:14:33 - INFO - New connected socket [id: EMnLdCj2rdpaYuHwAAAJ] 
+4.1.2026, 1:14:33 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: EMnLdCj2rdpaYuHwAAAJ] 
+4.1.2026, 1:14:35 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:14:37 - INFO - New connected socket [id: s0mvKbQ7mLrhmWGWAAAL] 
+4.1.2026, 1:14:37 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: s0mvKbQ7mLrhmWGWAAAL] 
+4.1.2026, 1:14:44 - INFO - New chat msg from socket [id: s0mvKbQ7mLrhmWGWAAAL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:16:27 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:16:30 - INFO - New connected socket [id: sGIe5OPcEED632TjAAAN] 
+4.1.2026, 1:16:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:16:30 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: sGIe5OPcEED632TjAAAN] 
+4.1.2026, 1:16:32 - INFO - New connected socket [id: ghUlcOZpT6y9JuDQAAAP] 
+4.1.2026, 1:16:32 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: ghUlcOZpT6y9JuDQAAAP] 
+4.1.2026, 1:16:47 - INFO - New chat msg from socket [id: ghUlcOZpT6y9JuDQAAAP], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:18:23 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:18:25 - INFO - New connected socket [id: jYdM-BbcBNZn1eLzAAAR] 
+4.1.2026, 1:18:25 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: jYdM-BbcBNZn1eLzAAAR] 
+4.1.2026, 1:18:34 - INFO - New chat msg from socket [id: jYdM-BbcBNZn1eLzAAAR], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:18:43 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:18:45 - INFO - New connected socket [id: Ymx27vUkXpW15DqOAAAT] 
+4.1.2026, 1:18:45 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Ymx27vUkXpW15DqOAAAT] 
+4.1.2026, 1:19:13 - INFO - New chat msg from socket [id: jYdM-BbcBNZn1eLzAAAR], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:20:07 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:20:10 - INFO - New connected socket [id: Ycb5Apw5n5w4Ej9XAAAV] 
+4.1.2026, 1:20:10 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Ycb5Apw5n5w4Ej9XAAAV] 
+4.1.2026, 1:20:37 - INFO - New chat msg from socket [id: Ycb5Apw5n5w4Ej9XAAAV], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:21:31 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:21:33 - INFO - New connected socket [id: NXOJOdYOZxRYh1tYAAAX] 
+4.1.2026, 1:21:33 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: NXOJOdYOZxRYh1tYAAAX] 
+4.1.2026, 1:21:36 - INFO - New chat msg from socket [id: NXOJOdYOZxRYh1tYAAAX], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:22:27 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:22:29 - INFO - New connected socket [id: 3yni-IhwupKw7lysAAAZ] 
+4.1.2026, 1:22:29 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 3yni-IhwupKw7lysAAAZ] 
+4.1.2026, 1:22:34 - INFO - New chat msg from socket [id: 3yni-IhwupKw7lysAAAZ], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:22:53 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:22:55 - INFO - New connected socket [id: 53FcIS33snOR9PnkAAAb] 
+4.1.2026, 1:22:55 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 53FcIS33snOR9PnkAAAb] 
+4.1.2026, 1:22:58 - INFO - New chat msg from socket [id: 53FcIS33snOR9PnkAAAb], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:25:30 - INFO - New chat msg from socket [id: NXOJOdYOZxRYh1tYAAAX], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:26:15 - INFO - New chat msg from socket [id: 53FcIS33snOR9PnkAAAb], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:26:35 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:27:58 - INFO - New chat msg from socket [id: NXOJOdYOZxRYh1tYAAAX], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:32:34 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:32:36 - INFO - New connected socket [id: 491k9KL1szkHHBBEAAAd] 
+4.1.2026, 1:32:37 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: 491k9KL1szkHHBBEAAAd] 
+4.1.2026, 1:32:48 - DEBUG - auth.service - login with username: Thomas 
+4.1.2026, 1:32:48 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+4.1.2026, 1:32:53 - INFO - New connected socket [id: UhSWXPwcJhVx5L6bAAAf] 
+4.1.2026, 1:32:53 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: UhSWXPwcJhVx5L6bAAAf] 
+4.1.2026, 1:33:01 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 1:33:01 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 1:33:24 - INFO - New chat msg from socket [id: UhSWXPwcJhVx5L6bAAAf], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:34:03 - INFO - New connected socket [id: Un_6oZiyLtWQZYAlAAAh] 
+4.1.2026, 1:34:03 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Un_6oZiyLtWQZYAlAAAh] 
+4.1.2026, 1:34:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:34:13 - INFO - New connected socket [id: mwaESoq-w0BjuwPeAAAj] 
+4.1.2026, 1:34:13 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: mwaESoq-w0BjuwPeAAAj] 
+4.1.2026, 1:34:14 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:34:14 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:34:16 - INFO - New connected socket [id: Mv9vR0yST-5WE8qHAAAl] 
+4.1.2026, 1:34:16 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Mv9vR0yST-5WE8qHAAAl] 
+4.1.2026, 1:34:28 - INFO - New chat msg from socket [id: Mv9vR0yST-5WE8qHAAAl], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:36:15 - INFO - New chat msg from socket [id: mwaESoq-w0BjuwPeAAAj], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:36:22 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:36:28 - INFO - New connected socket [id: FGeEkiJDefOZruouAAAn] 
+4.1.2026, 1:36:33 - DEBUG - auth.service - login with username: Thomas 
+4.1.2026, 1:36:33 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+4.1.2026, 1:36:54 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:36:54 - INFO - New connected socket [id: pwGHWOp1ObFOQJPkAAAp] 
+4.1.2026, 1:36:54 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: pwGHWOp1ObFOQJPkAAAp] 
+4.1.2026, 1:37:00 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:37:03 - INFO - New connected socket [id: pvmAFM89UDRbTurJAAAr] 
+4.1.2026, 1:37:03 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: pvmAFM89UDRbTurJAAAr] 
+4.1.2026, 1:37:14 - INFO - New chat msg from socket [id: pwGHWOp1ObFOQJPkAAAp], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:37:19 - INFO - New chat msg from socket [id: pvmAFM89UDRbTurJAAAr], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:37:54 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:37:54 - INFO - New connected socket [id: 9Eb6Xk8kkZNwiBKKAAAt] 
+4.1.2026, 1:37:54 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 9Eb6Xk8kkZNwiBKKAAAt] 
+4.1.2026, 1:37:58 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:37:58 - INFO - New connected socket [id: Lh-mn8x5WoDOHAB1AAAv] 
+4.1.2026, 1:37:58 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Lh-mn8x5WoDOHAB1AAAv] 
+4.1.2026, 1:38:25 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:38:26 - INFO - New connected socket [id: jGQ9F1bFl-PYUYgCAAAx] 
+4.1.2026, 1:38:26 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: jGQ9F1bFl-PYUYgCAAAx] 
+4.1.2026, 1:38:30 - INFO - New chat msg from socket [id: jGQ9F1bFl-PYUYgCAAAx], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:38:35 - INFO - New chat msg from socket [id: 9Eb6Xk8kkZNwiBKKAAAt], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:38:38 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:38:40 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:38:41 - INFO - New connected socket [id: JzkkcKqElCWrYi4IAAAz] 
+4.1.2026, 1:38:41 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: JzkkcKqElCWrYi4IAAAz] 
+4.1.2026, 1:38:59 - INFO - New connected socket [id: vo_4ldyRSIs1VoqjAAA1] 
+4.1.2026, 1:39:06 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 1:39:06 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 1:39:17 - INFO - New chat msg from socket [id: vo_4ldyRSIs1VoqjAAA1], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:39:31 - DEBUG - auth.service - login with username: Thomas 
+4.1.2026, 1:39:31 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+4.1.2026, 1:39:41 - INFO - New chat msg from socket [id: JzkkcKqElCWrYi4IAAAz], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:39:59 - INFO - New chat msg from socket [id: vo_4ldyRSIs1VoqjAAA1], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:40:20 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:40:20 - INFO - New connected socket [id: MDjesF1BzXcuVargAAA3] 
+4.1.2026, 1:40:20 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: MDjesF1BzXcuVargAAA3] 
+4.1.2026, 1:40:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:40:21 - INFO - New connected socket [id: Pjcate6dv7kNAgQCAAA5] 
+4.1.2026, 1:40:21 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Pjcate6dv7kNAgQCAAA5] 
+4.1.2026, 1:40:26 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:40:30 - INFO - New chat msg from socket [id: Pjcate6dv7kNAgQCAAA5], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:40:45 - INFO - New chat msg from socket [id: Pjcate6dv7kNAgQCAAA5], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:40:49 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:40:55 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:40:55 - INFO - New connected socket [id: itWKNUuHjHoOAvzxAAA7] 
+4.1.2026, 1:40:55 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: itWKNUuHjHoOAvzxAAA7] 
+4.1.2026, 1:43:28 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:43:43 - INFO - New connected socket [id: g9XnXOv7NJX1EEuTAAA9] 
+4.1.2026, 1:44:03 - DEBUG - auth.service - login with username: popo 
+4.1.2026, 1:44:03 - INFO - User login:  | {"_id":"69543edc2342b32b936d9f59","username":"popo","fullname":"popo popo","isAdmin":false} 
+4.1.2026, 1:44:14 - INFO - New chat msg from socket [id: g9XnXOv7NJX1EEuTAAA9], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:44:19 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:49:51 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:49:54 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:50:13 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:50:44 - INFO - New chat msg from socket [id: MDjesF1BzXcuVargAAA3], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:50:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:50:59 - INFO - New connected socket [id: tcxeeh2mZDyQJRaqAAA_] 
+4.1.2026, 1:50:59 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: tcxeeh2mZDyQJRaqAAA_] 
+4.1.2026, 1:52:56 - INFO - New chat msg from socket [id: tcxeeh2mZDyQJRaqAAA_], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 1:53:33 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:53:33 - INFO - New connected socket [id: EiEhI51xZjAq7g_ZAABB] 
+4.1.2026, 1:53:33 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: EiEhI51xZjAq7g_ZAABB] 
+4.1.2026, 1:57:41 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:57:43 - INFO - New connected socket [id: wfGlYOqz_DzPti4nAABD] 
+4.1.2026, 1:57:43 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: wfGlYOqz_DzPti4nAABD] 
+4.1.2026, 1:58:10 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:58:12 - INFO - New connected socket [id: m8G7Wiht9_Vfe23HAABF] 
+4.1.2026, 1:58:12 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: m8G7Wiht9_Vfe23HAABF] 
+4.1.2026, 1:58:33 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 1:58:35 - INFO - New connected socket [id: nJ_wZVLmDrlFZy5YAABH] 
+4.1.2026, 1:58:35 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: nJ_wZVLmDrlFZy5YAABH] 
+4.1.2026, 1:59:57 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:00:00 - INFO - New connected socket [id: _F-n95QjicjVm6y7AABJ] 
+4.1.2026, 2:00:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: _F-n95QjicjVm6y7AABJ] 
+4.1.2026, 2:00:43 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:00:45 - INFO - New connected socket [id: qDKA2TstODv84wTaAABL] 
+4.1.2026, 2:00:45 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: qDKA2TstODv84wTaAABL] 
+4.1.2026, 2:00:51 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:00:51 - INFO - New connected socket [id: jeGoepHNpCwamzrcAABN] 
+4.1.2026, 2:00:51 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: jeGoepHNpCwamzrcAABN] 
+4.1.2026, 2:01:25 - INFO - New chat msg from socket [id: qDKA2TstODv84wTaAABL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:01:32 - INFO - New chat msg from socket [id: jeGoepHNpCwamzrcAABN], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:01:46 - INFO - New chat msg from socket [id: qDKA2TstODv84wTaAABL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:02:02 - INFO - New chat msg from socket [id: jeGoepHNpCwamzrcAABN], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:02:20 - INFO - New chat msg from socket [id: qDKA2TstODv84wTaAABL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:02:37 - INFO - New chat msg from socket [id: qDKA2TstODv84wTaAABL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:02:57 - INFO - New chat msg from socket [id: jeGoepHNpCwamzrcAABN], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:03:00 - INFO - New chat msg from socket [id: jeGoepHNpCwamzrcAABN], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:03:06 - INFO - New chat msg from socket [id: jeGoepHNpCwamzrcAABN], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:04:35 - INFO - New chat msg from socket [id: qDKA2TstODv84wTaAABL], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:06:40 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:06:40 - INFO - New connected socket [id: ytAXl1UycSbrHTLnAABP] 
+4.1.2026, 2:06:40 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ytAXl1UycSbrHTLnAABP] 
+4.1.2026, 2:07:34 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: ytAXl1UycSbrHTLnAABP] 
+4.1.2026, 2:07:42 - INFO - New chat msg from socket [id: ytAXl1UycSbrHTLnAABP], emitting to topic 6953092116615f5ab43611f4 
+4.1.2026, 2:07:54 - INFO - New chat msg from socket [id: ytAXl1UycSbrHTLnAABP], emitting to topic 6953092116615f5ab43611f4 
+4.1.2026, 2:08:22 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: jeGoepHNpCwamzrcAABN] 
+4.1.2026, 2:11:53 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:11:53 - INFO - New connected socket [id: NlkYq-_fjcD9zGoXAABR] 
+4.1.2026, 2:11:53 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: NlkYq-_fjcD9zGoXAABR] 
+4.1.2026, 2:12:53 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: NlkYq-_fjcD9zGoXAABR] 
+4.1.2026, 2:13:52 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: NlkYq-_fjcD9zGoXAABR] 
+4.1.2026, 2:17:11 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:17:11 - INFO - New connected socket [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:17:11 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:18:01 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:19:13 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:20:51 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:22:09 - INFO - New chat msg from socket [id: eRwNnNBT3FmKSbhIAABT], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:23:33 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:23:40 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: eRwNnNBT3FmKSbhIAABT] 
+4.1.2026, 2:26:45 - INFO - New chat msg from socket [id: eRwNnNBT3FmKSbhIAABT], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:27:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:27:33 - INFO - New connected socket [id: ZIiUNcCQeAZRzLoKAABV] 
+4.1.2026, 2:27:33 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ZIiUNcCQeAZRzLoKAABV] 
+4.1.2026, 2:27:39 - INFO - New chat msg from socket [id: ZIiUNcCQeAZRzLoKAABV], emitting to topic 69545d3ed649651dc4265a6e 
+4.1.2026, 2:30:13 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: jeGoepHNpCwamzrcAABN] 
+4.1.2026, 2:31:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:31:30 - INFO - New connected socket [id: LeY4mUvussFdpNZRAABX] 
+4.1.2026, 2:31:30 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: LeY4mUvussFdpNZRAABX] 
+4.1.2026, 2:34:04 - INFO - New connected socket [id: Yqc6ZDMjvze3xsy5AABZ] 
+4.1.2026, 2:34:04 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: Yqc6ZDMjvze3xsy5AABZ] 
+4.1.2026, 2:34:04 - INFO - New connected socket [id: NfAUte9U8-o5qREmAABb] 
+4.1.2026, 2:34:04 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: NfAUte9U8-o5qREmAABb] 
+4.1.2026, 2:36:20 - INFO - New connected socket [id: G2-FbGVoez153QLBAABe] 
+4.1.2026, 2:36:20 - INFO - New connected socket [id: Ju9heMGvOP8eB0FGAABf] 
+4.1.2026, 2:36:20 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: G2-FbGVoez153QLBAABe] 
+4.1.2026, 2:36:20 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Ju9heMGvOP8eB0FGAABf] 
+4.1.2026, 2:37:15 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:37:20 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:37:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:39:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:39:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:39:21 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:39:23 - INFO - New connected socket [id: qYvW4cterx6pSGxAAABh] 
+4.1.2026, 2:39:23 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: qYvW4cterx6pSGxAAABh] 
+4.1.2026, 2:39:40 - INFO - New connected socket [id: 1ilb-X8wIxsRkvy_AABj] 
+4.1.2026, 2:39:40 - INFO - New connected socket [id: D2vaUna7rqvKUNeDAABl] 
+4.1.2026, 2:39:40 - INFO - New connected socket [id: r1BOozqW0d_Kh4cbAABn] 
+4.1.2026, 2:42:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:42:30 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:42:31 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:44:38 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:44:40 - INFO - New connected socket [id: Rdq89hkaM4KPKeNlAABp] 
+4.1.2026, 2:44:40 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Rdq89hkaM4KPKeNlAABp] 
+4.1.2026, 2:45:02 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:45:04 - INFO - New connected socket [id: zQK3hqZb-exOWDIEAABr] 
+4.1.2026, 2:45:04 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: zQK3hqZb-exOWDIEAABr] 
+4.1.2026, 2:45:10 - INFO - New connected socket [id: jBNepuKfx9efFj7lAABt] 
+4.1.2026, 2:45:11 - INFO - New connected socket [id: cksJEi619YIEC1CnAABv] 
+4.1.2026, 2:45:11 - INFO - New connected socket [id: En4fs8LhP35RsZQRAABx] 
+4.1.2026, 2:46:14 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:46:17 - INFO - New connected socket [id: byYiDfdTcAQZ0wUEAABz] 
+4.1.2026, 2:46:17 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: byYiDfdTcAQZ0wUEAABz] 
+4.1.2026, 2:49:05 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:49:07 - INFO - New connected socket [id: ibUUbNI0n8Wz-nx4AAB1] 
+4.1.2026, 2:49:07 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ibUUbNI0n8Wz-nx4AAB1] 
+4.1.2026, 2:49:36 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:49:36 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:49:36 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:49:36 - INFO - New connected socket [id: VTbYrNdhica3MumIAAB3] 
+4.1.2026, 2:49:36 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: VTbYrNdhica3MumIAAB3] 
+4.1.2026, 2:49:54 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:49:54 - INFO - New connected socket [id: K-Q0HbmWYy4jqXeSAAB5] 
+4.1.2026, 2:49:54 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: K-Q0HbmWYy4jqXeSAAB5] 
+4.1.2026, 2:50:01 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:50:03 - INFO - New connected socket [id: 8siBVnifgm3jJynZAAB7] 
+4.1.2026, 2:50:03 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 8siBVnifgm3jJynZAAB7] 
+4.1.2026, 2:54:27 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:54:29 - INFO - New connected socket [id: DgiL9sh4Ar9ItBlBAAB9] 
+4.1.2026, 2:54:29 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: DgiL9sh4Ar9ItBlBAAB9] 
+4.1.2026, 2:54:46 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:54:48 - INFO - New connected socket [id: EfJDdjmBlqyiXqEGAAB_] 
+4.1.2026, 2:54:48 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: EfJDdjmBlqyiXqEGAAB_] 
+4.1.2026, 2:55:39 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 2:55:41 - INFO - New connected socket [id: q8Nvzhezf7MW-MeoAACB] 
+4.1.2026, 2:55:41 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: q8Nvzhezf7MW-MeoAACB] 
+4.1.2026, 3:03:10 - INFO - server.js loaded... 
+4.1.2026, 3:03:10 - INFO - Server is running on port: 3030 
+4.1.2026, 3:03:10 - INFO - Server is running on port: 3030 
+4.1.2026, 3:03:11 - INFO - New connected socket [id: 8WtGNEE5O9PSahf5AAAB] 
+4.1.2026, 3:03:12 - INFO - New connected socket [id: BoUy_0exFxfEKaXwAAAD] 
+4.1.2026, 3:03:33 - INFO - New review added 
+4.1.2026, 3:03:35 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:03:35 - INFO - New connected socket [id: uqPIMt4LPsqcL5ohAAAF] 
+4.1.2026, 3:03:35 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: uqPIMt4LPsqcL5ohAAAF] 
+4.1.2026, 3:03:49 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:03:51 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:03:51 - INFO - New connected socket [id: mRl0-Kh01AsZSVtKAAAH] 
+4.1.2026, 3:03:51 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: mRl0-Kh01AsZSVtKAAAH] 
+4.1.2026, 3:03:53 - INFO - New connected socket [id: n_dYM-zRN5CznWR4AAAJ] 
+4.1.2026, 3:03:53 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: n_dYM-zRN5CznWR4AAAJ] 
+4.1.2026, 3:04:39 - INFO - New review added 
+4.1.2026, 3:05:12 - INFO - Socket disconnected [id: undefined] 
+4.1.2026, 3:05:14 - INFO - New connected socket [id: pckYbaAyipGhha-gAAAL] 
+4.1.2026, 3:05:14 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: pckYbaAyipGhha-gAAAL] 
+4.1.2026, 3:05:24 - INFO - New review added 

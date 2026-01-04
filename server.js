@@ -17,7 +17,7 @@ import { setupSocketAPI } from "./services/socket.service.js";
 logger.info("server.js loaded...");
 
 const app = express();
-const server = http.createServer(app)
+
 // Express App Config
 app.use(cookieParser());
 app.use(express.json());
@@ -46,12 +46,16 @@ app.use("/api/toy", toyRoutes);
 app.use("/api/user", userRoutes)
 app.use("/api/auth",authRoutes)
 app.use('/api/review',reviewsRoutes)
-setupSocketAPI(server)
+
 app.get('/*all', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
   const port = process.env.PORT || 3030;
-
+const server = http.createServer(app)
+setupSocketAPI(server)
+server.listen(port,()=>{
+  logger.info("Server is running on port: " + port)
+})
   app.listen(port, () => {
     logger.info("Server is running on port: " + port);
   });

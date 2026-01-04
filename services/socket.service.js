@@ -51,7 +51,11 @@ export function setupSocketAPI(http) {
             // emits only to sockets in the same room
             gIo.to(socket.myTopic).emit('chat-add-msg', msg)
         })
+       socket.on('add-review',review=>{
+        logger.info('New review added')
 
+        gIo.to(socket.myTopic).emit('review-added',review)
+       })
 
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
