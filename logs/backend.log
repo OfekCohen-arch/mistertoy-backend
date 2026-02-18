@@ -1899,3 +1899,275 @@
 18.2.2026, 16:43:10 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: quqOpksIor_42EH8AAAD] 
 18.2.2026, 16:43:10 - INFO - Toys updated 
 18.2.2026, 16:43:10 - INFO - Toys updated 
+18.2.2026, 16:48:39 - INFO - Toys updated 
+18.2.2026, 16:48:39 - INFO - Toys updated 
+18.2.2026, 16:53:53 - INFO - server.js loaded... 
+18.2.2026, 16:53:53 - INFO - Server is running on port: 3030 
+18.2.2026, 16:53:53 - INFO - Server is running on port: 3030 
+18.2.2026, 16:53:56 - INFO - New connected socket [id: PwwtDcQyt6CwfNiFAAAB] 
+18.2.2026, 16:53:58 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 16:54:00 - INFO - New connected socket [id: LnaRYtvhTfuJ8cQgAAAD] 
+18.2.2026, 16:54:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: LnaRYtvhTfuJ8cQgAAAD] 
+18.2.2026, 16:54:00 - INFO - Toys updated 
+18.2.2026, 16:54:00 - INFO - Toys updated 
+18.2.2026, 17:00:29 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:00:31 - INFO - New connected socket [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:00:31 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:00:31 - INFO - Toys updated 
+18.2.2026, 17:00:31 - INFO - Toys updated 
+18.2.2026, 17:04:38 - INFO - Toys updated 
+18.2.2026, 17:04:38 - INFO - Toys updated 
+18.2.2026, 17:07:46 - DEBUG - auth.service - login with username: Thomas 
+18.2.2026, 17:07:47 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+18.2.2026, 17:08:08 - INFO - Toys updated 
+18.2.2026, 17:08:08 - INFO - Toys updated 
+18.2.2026, 17:08:09 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:08:16 - INFO - New review added 
+18.2.2026, 17:08:21 - INFO - Toys updated 
+18.2.2026, 17:08:21 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:08:21 - INFO - Toys updated 
+18.2.2026, 17:08:25 - INFO - Toys updated 
+18.2.2026, 17:08:29 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:08:33 - INFO - New review added 
+18.2.2026, 17:08:35 - INFO - Toys updated 
+18.2.2026, 17:08:35 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:08:35 - INFO - Toys updated 
+18.2.2026, 17:08:37 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:08:48 - INFO - New review added 
+18.2.2026, 17:09:00 - INFO - New connected socket [id: aTiVFd2t_BS0aLiWAAAH] 
+18.2.2026, 17:09:00 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: aTiVFd2t_BS0aLiWAAAH] 
+18.2.2026, 17:09:07 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:09:07 - INFO - New connected socket [id: BOYF5kK0rfElIHGcAAAJ] 
+18.2.2026, 17:09:07 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: BOYF5kK0rfElIHGcAAAJ] 
+18.2.2026, 17:09:22 - INFO - New review added 
+18.2.2026, 17:09:35 - INFO - Toys updated 
+18.2.2026, 17:09:35 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:09:35 - INFO - Toys updated 
+18.2.2026, 17:09:37 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:09:45 - INFO - Toys updated 
+18.2.2026, 17:09:45 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:09:45 - INFO - Toys updated 
+18.2.2026, 17:09:46 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:09:50 - INFO - Toys updated 
+18.2.2026, 17:09:50 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:09:50 - INFO - Toys updated 
+18.2.2026, 17:09:51 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:10:04 - INFO - New review added 
+18.2.2026, 17:10:10 - INFO - Toys updated 
+18.2.2026, 17:10:10 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: BOYF5kK0rfElIHGcAAAJ] 
+18.2.2026, 17:10:10 - INFO - Toys updated 
+18.2.2026, 17:10:12 - INFO - Socket is leaving topic toys [id: BOYF5kK0rfElIHGcAAAJ] 
+18.2.2026, 17:10:14 - INFO - Toys updated 
+18.2.2026, 17:10:14 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: BOYF5kK0rfElIHGcAAAJ] 
+18.2.2026, 17:10:14 - INFO - Toys updated 
+18.2.2026, 17:10:55 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:10:58 - INFO - New connected socket [id: 9b3F0R46IqXndorzAAAL] 
+18.2.2026, 17:10:58 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: 9b3F0R46IqXndorzAAAL] 
+18.2.2026, 17:14:55 - INFO - Toys updated 
+18.2.2026, 17:14:55 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:14:55 - INFO - Toys updated 
+18.2.2026, 17:17:03 - INFO - Toys updated 
+18.2.2026, 17:17:03 - INFO - Toys updated 
+18.2.2026, 17:17:24 - INFO - Toys updated 
+18.2.2026, 17:17:24 - INFO - Toys updated 
+18.2.2026, 17:17:58 - INFO - Toys updated 
+18.2.2026, 17:17:58 - INFO - Toys updated 
+18.2.2026, 17:18:20 - INFO - Toys updated 
+18.2.2026, 17:18:20 - INFO - Toys updated 
+18.2.2026, 17:18:23 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:20:55 - INFO - Toys updated 
+18.2.2026, 17:20:55 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:20:55 - INFO - Toys updated 
+18.2.2026, 17:21:27 - INFO - Toys updated 
+18.2.2026, 17:21:27 - INFO - Toys updated 
+18.2.2026, 17:21:28 - INFO - Socket is leaving topic toys [id: DtT0I73rOI7NHA4-AAAF] 
+18.2.2026, 17:30:11 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:30:13 - INFO - New connected socket [id: ZiHVpSA-EY9oEGGEAAAN] 
+18.2.2026, 17:30:13 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ZiHVpSA-EY9oEGGEAAAN] 
+18.2.2026, 17:31:17 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:31:17 - INFO - New connected socket [id: tVg3xBGpqrlUzuDoAAAP] 
+18.2.2026, 17:31:17 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: tVg3xBGpqrlUzuDoAAAP] 
+18.2.2026, 17:31:25 - INFO - Toys updated 
+18.2.2026, 17:31:25 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: tVg3xBGpqrlUzuDoAAAP] 
+18.2.2026, 17:31:25 - INFO - Toys updated 
+18.2.2026, 17:31:27 - INFO - Socket is leaving topic toys [id: tVg3xBGpqrlUzuDoAAAP] 
+18.2.2026, 17:35:52 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:35:52 - INFO - New connected socket [id: 7UgLNMPf1pFo0UhPAAAR] 
+18.2.2026, 17:35:52 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 7UgLNMPf1pFo0UhPAAAR] 
+18.2.2026, 17:36:25 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:36:28 - INFO - New connected socket [id: iaR0ECGo2JiEi4VCAAAT] 
+18.2.2026, 17:36:28 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: iaR0ECGo2JiEi4VCAAAT] 
+18.2.2026, 17:36:49 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:36:51 - INFO - New connected socket [id: EbAuXMlfvlJdVNn3AAAV] 
+18.2.2026, 17:36:51 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: EbAuXMlfvlJdVNn3AAAV] 
+18.2.2026, 17:38:03 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:38:05 - INFO - New connected socket [id: rKz2Kggb8EP_zwWwAAAX] 
+18.2.2026, 17:38:05 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: rKz2Kggb8EP_zwWwAAAX] 
+18.2.2026, 17:38:28 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:38:30 - INFO - New connected socket [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:38:30 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:38:35 - INFO - Toys updated 
+18.2.2026, 17:38:35 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:38:35 - INFO - Toys updated 
+18.2.2026, 17:38:37 - INFO - Socket is leaving topic toys [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:38:50 - INFO - Toys updated 
+18.2.2026, 17:38:50 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:38:50 - INFO - Toys updated 
+18.2.2026, 17:38:51 - INFO - Socket is leaving topic toys [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:40:03 - INFO - Toys updated 
+18.2.2026, 17:40:03 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:40:03 - INFO - Toys updated 
+18.2.2026, 17:40:05 - INFO - Socket is leaving topic toys [id: uY_E8U7i7ACY8PqNAAAZ] 
+18.2.2026, 17:41:01 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:41:01 - INFO - New connected socket [id: ImnHPXf21-rGaKj5AAAb] 
+18.2.2026, 17:41:01 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ImnHPXf21-rGaKj5AAAb] 
+18.2.2026, 17:41:25 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:41:27 - INFO - New connected socket [id: pbObkipYkkyt-E5LAAAd] 
+18.2.2026, 17:41:27 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: pbObkipYkkyt-E5LAAAd] 
+18.2.2026, 17:41:49 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:41:51 - INFO - New connected socket [id: Oo3pZUgnNWRbVNaiAAAf] 
+18.2.2026, 17:41:51 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Oo3pZUgnNWRbVNaiAAAf] 
+18.2.2026, 17:42:43 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:42:46 - INFO - New connected socket [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:42:46 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:44:12 - INFO - Toys updated 
+18.2.2026, 17:44:12 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:44:12 - INFO - Toys updated 
+18.2.2026, 17:44:14 - INFO - Socket is leaving topic toys [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:44:45 - INFO - Toys updated 
+18.2.2026, 17:44:45 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:44:45 - INFO - Toys updated 
+18.2.2026, 17:44:47 - INFO - Socket is leaving topic toys [id: g19m4yYdSdigoxtmAAAh] 
+18.2.2026, 17:46:05 - INFO - server.js loaded... 
+18.2.2026, 17:46:05 - INFO - Server is running on port: 3030 
+18.2.2026, 17:46:05 - INFO - Server is running on port: 3030 
+18.2.2026, 17:46:07 - INFO - New connected socket [id: k6Y3fLDT02nBPggWAAAB] 
+18.2.2026, 17:46:07 - INFO - New connected socket [id: FbOh7ycaqIQn-ngZAAAD] 
+18.2.2026, 17:47:17 - INFO - Toys updated 
+18.2.2026, 17:47:17 - INFO - Toys updated 
+18.2.2026, 17:47:20 - INFO - Socket is leaving topic toys [id: k6Y3fLDT02nBPggWAAAB] 
+18.2.2026, 17:48:50 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:48:52 - INFO - New connected socket [id: OG6H5jD4eU1fJ_7FAAAF] 
+18.2.2026, 17:48:52 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: OG6H5jD4eU1fJ_7FAAAF] 
+18.2.2026, 17:49:15 - INFO - Toys updated 
+18.2.2026, 17:49:15 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: OG6H5jD4eU1fJ_7FAAAF] 
+18.2.2026, 17:49:15 - INFO - Toys updated 
+18.2.2026, 17:49:17 - INFO - Socket is leaving topic toys [id: OG6H5jD4eU1fJ_7FAAAF] 
+18.2.2026, 17:50:00 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:50:00 - INFO - New connected socket [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:50:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:50:05 - INFO - Toys updated 
+18.2.2026, 17:50:05 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:50:05 - INFO - Toys updated 
+18.2.2026, 17:50:07 - INFO - Socket is leaving topic toys [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:51:41 - INFO - Toys updated 
+18.2.2026, 17:51:41 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:51:41 - INFO - Toys updated 
+18.2.2026, 17:51:45 - INFO - Socket is leaving topic toys [id: -Odgx796lIH6XQSLAAAH] 
+18.2.2026, 17:53:57 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:53:59 - INFO - New connected socket [id: ugOd4FPk6uverS54AAAJ] 
+18.2.2026, 17:53:59 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: ugOd4FPk6uverS54AAAJ] 
+18.2.2026, 17:54:11 - INFO - Toys updated 
+18.2.2026, 17:54:11 - INFO - Toys updated 
+18.2.2026, 17:54:13 - INFO - Socket is leaving topic toys [id: ugOd4FPk6uverS54AAAJ] 
+18.2.2026, 17:54:33 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 17:54:35 - INFO - New connected socket [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 17:54:35 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:04:57 - INFO - Toys updated 
+18.2.2026, 18:04:57 - INFO - Toys updated 
+18.2.2026, 18:05:48 - INFO - Toys updated 
+18.2.2026, 18:05:48 - INFO - Toys updated 
+18.2.2026, 18:06:55 - INFO - Socket is leaving topic toys [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:06:59 - INFO - Toys updated 
+18.2.2026, 18:06:59 - INFO - Socket is leaving topic 6953092116615f5ab43611f4 [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:06:59 - INFO - Toys updated 
+18.2.2026, 18:07:02 - INFO - Socket is leaving topic toys [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:10:26 - INFO - Toys updated 
+18.2.2026, 18:10:26 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:10:26 - INFO - Toys updated 
+18.2.2026, 18:10:28 - INFO - Socket is leaving topic toys [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 18:12:43 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 19:23:51 - INFO - Toys updated 
+18.2.2026, 19:23:51 - INFO - Socket is leaving topic 6995bb9d304d310a199349f9 [id: SV-IILUzWSaV7X2yAAAL] 
+18.2.2026, 19:23:51 - INFO - Toys updated 
+18.2.2026, 19:27:05 - DEBUG - auth.service - login with username: Thomas 
+18.2.2026, 19:27:05 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+18.2.2026, 19:36:21 - INFO - Toys updated 
+18.2.2026, 19:36:21 - INFO - Toys updated 
+18.2.2026, 20:18:09 - INFO - Toys updated 
+18.2.2026, 20:18:09 - INFO - Toys updated 
+18.2.2026, 20:18:11 - INFO - Toys updated 
+18.2.2026, 20:18:11 - INFO - Toys updated 
+18.2.2026, 20:23:11 - INFO - Toys updated 
+18.2.2026, 20:23:11 - INFO - Toys updated 
+18.2.2026, 20:23:43 - INFO - Toys updated 
+18.2.2026, 20:23:43 - INFO - Toys updated 
+18.2.2026, 20:23:52 - DEBUG - auth.service - login with username: Thomas 
+18.2.2026, 20:23:53 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Thomas Muller","isAdmin":true} 
+18.2.2026, 20:29:00 - INFO - Toys updated 
+18.2.2026, 20:29:00 - INFO - Toys updated 
+18.2.2026, 20:43:29 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 20:43:32 - INFO - New connected socket [id: Qp520gqecmHUBTTtAAAN] 
+18.2.2026, 20:43:32 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Qp520gqecmHUBTTtAAAN] 
+18.2.2026, 20:43:32 - INFO - Toys updated 
+18.2.2026, 20:43:32 - INFO - Toys updated 
+18.2.2026, 20:53:01 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 20:57:59 - INFO - New connected socket [id: g5oIrF8hlPxUpTRhAAAP] 
+18.2.2026, 20:58:01 - INFO - New connected socket [id: 3CGcgM4V-7CakjHVAAAR] 
+18.2.2026, 20:58:01 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 3CGcgM4V-7CakjHVAAAR] 
+18.2.2026, 20:58:30 - INFO - Toys updated 
+18.2.2026, 20:58:30 - INFO - Toys updated 
+18.2.2026, 20:58:40 - INFO - Toys updated 
+18.2.2026, 20:58:40 - INFO - Toys updated 
+18.2.2026, 20:58:44 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 20:58:52 - INFO - Toys updated 
+18.2.2026, 20:58:52 - INFO - Toys updated 
+18.2.2026, 21:00:28 - INFO - Toys updated 
+18.2.2026, 21:00:28 - INFO - Toys updated 
+18.2.2026, 21:00:29 - INFO - Toys updated 
+18.2.2026, 21:00:29 - INFO - Toys updated 
+18.2.2026, 21:00:54 - INFO - Toys updated 
+18.2.2026, 21:00:55 - INFO - Toys updated 
+18.2.2026, 21:00:56 - INFO - Toys updated 
+18.2.2026, 21:00:56 - INFO - Toys updated 
+18.2.2026, 21:03:26 - INFO - Toys updated 
+18.2.2026, 21:03:26 - INFO - Toys updated 
+18.2.2026, 21:03:28 - INFO - Toys updated 
+18.2.2026, 21:03:28 - INFO - Toys updated 
+18.2.2026, 21:03:32 - INFO - Toys updated 
+18.2.2026, 21:03:32 - INFO - Toys updated 
+18.2.2026, 21:06:42 - INFO - Toys updated 
+18.2.2026, 21:06:43 - INFO - Toys updated 
+18.2.2026, 21:07:47 - INFO - Toys updated 
+18.2.2026, 21:07:47 - INFO - Toys updated 
+18.2.2026, 21:14:58 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 21:15:00 - INFO - New connected socket [id: li2haxWwVILs0MmtAAAT] 
+18.2.2026, 21:15:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: li2haxWwVILs0MmtAAAT] 
+18.2.2026, 21:15:00 - INFO - Toys updated 
+18.2.2026, 21:15:00 - INFO - Toys updated 
+18.2.2026, 21:15:24 - DEBUG - auth.service - login with username: Thomas 
+18.2.2026, 21:15:25 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Asaf Cohen","isAdmin":true} 
+18.2.2026, 21:15:33 - INFO - Toys updated 
+18.2.2026, 21:15:33 - INFO - Toys updated 
+18.2.2026, 21:15:35 - INFO - Toys updated 
+18.2.2026, 21:15:35 - INFO - Toys updated 
+18.2.2026, 21:33:06 - INFO - Toys updated 
+18.2.2026, 21:33:06 - INFO - Toys updated 
+18.2.2026, 21:34:03 - INFO - Socket is leaving topic toys [id: li2haxWwVILs0MmtAAAT] 
+18.2.2026, 21:34:06 - INFO - Toys updated 
+18.2.2026, 21:34:06 - INFO - Toys updated 
+18.2.2026, 21:34:06 - INFO - Socket is leaving topic 69545d3ed649651dc4265a6e [id: li2haxWwVILs0MmtAAAT] 
+18.2.2026, 21:43:10 - INFO - Toys updated 
+18.2.2026, 21:43:10 - INFO - Toys updated 
+18.2.2026, 21:43:14 - INFO - Toys updated 
+18.2.2026, 21:43:14 - INFO - Toys updated 
+18.2.2026, 21:43:20 - INFO - Toys updated 
+18.2.2026, 21:43:20 - INFO - Toys updated 
+18.2.2026, 21:43:35 - DEBUG - auth.service - login with username: Thomas 
+18.2.2026, 21:43:35 - INFO - User login:  | {"_id":"694b10ddd2b8f72580d122e1","username":"Thomas","fullname":"Asaf Cohen","isAdmin":true} 
+18.2.2026, 21:44:47 - INFO - Toys updated 
+18.2.2026, 21:44:47 - INFO - Toys updated 
+18.2.2026, 21:44:58 - INFO - Toys updated 
+18.2.2026, 21:44:58 - INFO - Toys updated 
+18.2.2026, 21:51:41 - INFO - Toys updated 
+18.2.2026, 21:51:41 - INFO - Toys updated 
