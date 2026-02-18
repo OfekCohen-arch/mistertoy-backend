@@ -1,92 +1,108 @@
-# MisterToy - Frontend 🎯
+# MisterToy - Backend ⚙️
 
-A modern React-based frontend application for managing and displaying toy products.
-This project is part of a full-stack system that includes a Node.js backend.
+A Node.js-based REST API server for managing toy data.
+This backend serves the MisterToy frontend application.
 
 ---
 
 ## 🚀 Features
 
-- Responsive user interface
-- View toy list
-- Filter and search toys
-- Add / Edit / Delete toys
-- Connects to REST API backend
-- Clean and modular component structure
+- RESTful API
+- CRUD operations for toys
+- JSON-based data storage
+- Modular architecture
+- Middleware support
+- Error handling
+- CORS enabled
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React
-- Vite
+- Node.js
+- Express.js
 - JavaScript (ES6+)
-- CSS / SCSS
-- Axios
+- File-based JSON database
 - REST API
+- Middleware
 
 ---
 
 ## 📦 Installation
 
 1. Clone the repository:
+   
 2. Navigate to the project folder:
-   cd mistertoy-frontend
+   cd mistertoy-backend
+   
 3. Install dependencies:
    npm install
-4. Run the development server:
-   npm run dev
-5. Open in browser:
-   http://localhost:5173
 
-🔗 Backend Repository
+4.Run the server:
+   npm start
 
-This frontend connects to a Node.js backend:
+5. Server will run on:
+   http://localhost:3030
 
-👉 https://github.com/OfekCohen-arch/mistertoy-backend
+🔗 Frontend Repository
+
+This backend connects to the React frontend:
+
+👉 https://github.com/OfekCohen-arch/mistertoy-frontend
 
 📁 Project Structure
-src/
- ├─ assets/
- ├─ components/
- ├─ pages/
+
+server/
+ ├─ api/
+ │   └─ toy/
  ├─ services/
- ├─ styles/
- ├─ App.jsx
- └─ main.jsx
+ ├─ middlewares/
+ ├─ config/
+ ├─ server.js
+ └─ app.js
 
- What I Learned
+📡 API Endpoints
+Method	Endpoint	Description
+GET	/api/toy	Get all toys
+GET	/api/toy/:id	Get toy by ID
+POST	/api/toy	Create new toy
+PUT	/api/toy/:id	Update toy
+DELETE	/api/toy/:id	Delete toy
 
-Building SPA using React
+💡 What I Learned
 
-Managing state and props
+Building RESTful APIs
 
-Working with REST APIs
+Working with Express.js
 
-Component-based architecture
+Handling middleware
 
-Frontend & Backend integration
+Server-side validation
 
-Project structuring and debugging
+Error handling
+
+API & Frontend integration
+
+Backend architecture
 
 📌 Future Improvements
 
-User authentication
+Authentication & authorization
 
-Admin dashboard
+Database integration (MongoDB / SQL)
 
-Advanced filtering
+Unit & integration tests
 
-Unit testing
+Logging system
 
-UI animations
+Deployment
 
+Environment variables
 
 👨‍💻 Author
 
 Developed by Ofek Cohen
 
 GitHub: https://github.com/OfekCohen-arch
-
 ```bash
-git clone https://github.com/OfekCohen-arch/mistertoy-frontend.git
+git clone https://github.com/OfekCohen-arch/mistertoy-backend.git
