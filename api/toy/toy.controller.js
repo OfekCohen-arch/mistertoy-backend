@@ -1,16 +1,18 @@
 import { toyService } from "./toy.service.js";
 import { logger } from "../../services/logger.service.js";
-import { log } from "console";
 
 export async function getToys(req, res) {
   try {
-    const {name,inStock,labels,sortField} = req.query
+    const {name,inStock,'labels[]': labels,sortField} = req.query
+
     const filterBy = {
       name: name || "",
       inStock: inStock,
-      labels: labels? labels.split(',') : [],
+      labels: labels,
       sortField: sortField || ""
     }
+    console.log(filterBy);
+    
     const toys = await toyService.query(filterBy);
     res.json(toys);
   } catch (err) {

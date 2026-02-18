@@ -19,7 +19,12 @@ async function query(filterBy = {}) {
 
     if (name) criteria.name = { $regex: name, $options: "i" };
     if (inStock) criteria.inStock = inStock === "true";
-    if (labels.length > 0) criteria.labels = { $in: labels };
+    if (labels) {
+      const labelsToFilter = Array.isArray(filterBy.labels)
+        ? filterBy.labels
+        : [filterBy.labels];
+      criteria.labels = { $in: labelsToFilter };
+    }
 
     const sort = sortField
       ? {
@@ -84,7 +89,7 @@ async function update(toy) {
     const collection = await dbService.getCollection("toy");
     await collection.updateOne(
       { _id: ObjectId.createFromHexString(toy._id) },
-      { $set: toyToSave }
+      { $set: toyToSave },
     );
     return toy;
   } catch (err) {
@@ -98,7 +103,7 @@ async function addMsg(toyId, msg) {
     const collection = await dbService.getCollection("toy");
     await collection.updateOne(
       { _id: ObjectId.createFromHexString(toyId) },
-      { $push: { msgs: msg } }
+      { $push: { msgs: msg } },
     );
     return msg;
   } catch (err) {
