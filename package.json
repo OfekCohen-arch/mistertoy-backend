@@ -1,0 +1,31 @@
+{
+  "name": "mistertoy-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfekCohen-arch/mistertoy-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/OfekCohen-arch/mistertoy-backend/issues"
+  },
+  "homepage": "https://github.com/OfekCohen-arch/mistertoy-backend#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "cryptr": "^6.4.0",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "socket.io": "^4.8.3"
+  }
+}

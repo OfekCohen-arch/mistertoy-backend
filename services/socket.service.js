@@ -53,12 +53,8 @@ export function setupSocketAPI(http) {
         })
        socket.on('add-review',review=>{
         logger.info('New review added')
-        gIo.to(socket.myTopic).emit('review-added',review)
+        gIo.emit('review-added',review)
       //  gIo.to('reviews').emit('reviews-updated',review)
-       })
-       socket.on('update-reviews',review=>{
-        logger.info('Reviews updated')
-        gIo.to(socket.myTopic).emit('reviews-updated',review)
        })
        socket.on('update-toys',toy=>{
         logger.info('Toys updated')
