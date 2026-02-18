@@ -1543,3 +1543,83 @@
 18.2.2026, 13:35:29 - INFO - Toys updated 
 18.2.2026, 13:35:48 - INFO - Toys updated 
 18.2.2026, 13:35:48 - INFO - Toys updated 
+18.2.2026, 13:44:20 - INFO - Toys updated 
+18.2.2026, 13:44:20 - INFO - Toys updated 
+18.2.2026, 13:44:21 - INFO - Socket is leaving topic toys [id: a-Amjtngq4g4XZShAAAF] 
+18.2.2026, 13:44:39 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 13:44:39 - INFO - New connected socket [id: tGMmedN7rO2lO8QkAAAJ] 
+18.2.2026, 13:44:39 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: tGMmedN7rO2lO8QkAAAJ] 
+18.2.2026, 13:58:40 - INFO - server.js loaded... 
+18.2.2026, 13:58:40 - INFO - Server is running on port: 3030 
+18.2.2026, 13:58:40 - INFO - Server is running on port: 3030 
+18.2.2026, 13:58:41 - INFO - New connected socket [id: 4UhBoTt-q98qZCMyAAAB] 
+18.2.2026, 13:58:41 - INFO - New connected socket [id: BQTErRbZt-4te-QZAAAD] 
+18.2.2026, 14:00:08 - INFO - New connected socket [id: IhcRdFoYxF3RzSnlAAAF] 
+18.2.2026, 14:00:08 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: IhcRdFoYxF3RzSnlAAAF] 
+18.2.2026, 14:00:08 - INFO - New connected socket [id: IXIJinDxwgkv_yuSAAAH] 
+18.2.2026, 14:00:08 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: IXIJinDxwgkv_yuSAAAH] 
+18.2.2026, 14:06:24 - INFO - Toys updated 
+18.2.2026, 14:06:24 - INFO - Toys updated 
+18.2.2026, 14:06:25 - INFO - Socket is leaving topic toys [id: IXIJinDxwgkv_yuSAAAH] 
+18.2.2026, 14:11:36 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:11:36 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:11:38 - INFO - New connected socket [id: DG6LHisz0lLNQ5l1AAAJ] 
+18.2.2026, 14:11:38 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: DG6LHisz0lLNQ5l1AAAJ] 
+18.2.2026, 14:15:33 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:15:35 - INFO - New connected socket [id: 176v4hCO05S1rXXZAAAL] 
+18.2.2026, 14:15:35 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 176v4hCO05S1rXXZAAAL] 
+18.2.2026, 14:18:54 - INFO - server.js loaded... 
+18.2.2026, 14:18:54 - INFO - Server is running on port: 3030 
+18.2.2026, 14:18:54 - INFO - Server is running on port: 3030 
+18.2.2026, 14:18:54 - INFO - New connected socket [id: 92zvTRDsPUy00K6dAAAC] 
+18.2.2026, 14:18:54 - INFO - New connected socket [id: V-LJ2RGYQzcPz6MhAAAD] 
+18.2.2026, 14:18:54 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 92zvTRDsPUy00K6dAAAC] 
+18.2.2026, 14:18:54 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: V-LJ2RGYQzcPz6MhAAAD] 
+18.2.2026, 14:18:58 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:18:58 - INFO - New connected socket [id: fhfytdwIhzKjs7PFAAAG] 
+18.2.2026, 14:18:58 - INFO - New connected socket [id: cmSsVZcon0NdFGS3AAAH] 
+18.2.2026, 14:19:00 - INFO - New connected socket [id: nwBFp0nDqviokwXAAAAJ] 
+18.2.2026, 14:19:00 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: nwBFp0nDqviokwXAAAAJ] 
+18.2.2026, 14:23:29 - INFO - New connected socket [id: AEKipk8Y47zu7b7OAAAL] 
+18.2.2026, 14:23:29 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: AEKipk8Y47zu7b7OAAAL] 
+18.2.2026, 14:26:22 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:26:22 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:26:22 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:26:22 - INFO - New connected socket [id: cOrYtrnpXoDmJPhrAAAN] 
+18.2.2026, 14:26:22 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: cOrYtrnpXoDmJPhrAAAN] 
+18.2.2026, 14:28:29 - INFO - server.js loaded... 
+18.2.2026, 14:28:29 - INFO - Server is running on port: 3030 
+18.2.2026, 14:28:29 - INFO - Server is running on port: 3030 
+18.2.2026, 14:28:29 - INFO - New connected socket [id: 1_Mo_ik6Czro66CTAAAB] 
+18.2.2026, 14:28:42 - INFO - server.js loaded... 
+18.2.2026, 14:28:42 - INFO - Server is running on port: 3030 
+18.2.2026, 14:28:42 - INFO - Server is running on port: 3030 
+18.2.2026, 14:28:42 - INFO - New connected socket [id: Re5-hYBkzEsXxc3eAAAB] 
+18.2.2026, 14:28:45 - INFO - New connected socket [id: tZK2snzJ9XOGUNABAAAD] 
+18.2.2026, 14:28:45 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:28:48 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:28:48 - INFO - New connected socket [id: H8_YimvVJmSN5ZC0AAAF] 
+18.2.2026, 14:28:48 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: H8_YimvVJmSN5ZC0AAAF] 
+18.2.2026, 14:28:50 - INFO - New connected socket [id: -LEGElkG33xJVwEwAAAH] 
+18.2.2026, 14:28:50 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: -LEGElkG33xJVwEwAAAH] 
+18.2.2026, 14:32:07 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:32:09 - INFO - New connected socket [id: 2BmuGvK2hGcpLJj1AAAJ] 
+18.2.2026, 14:32:09 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: 2BmuGvK2hGcpLJj1AAAJ] 
+18.2.2026, 14:32:11 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:32:11 - INFO - New connected socket [id: pB10I__JBcqNxdIyAAAL] 
+18.2.2026, 14:32:11 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: pB10I__JBcqNxdIyAAAL] 
+18.2.2026, 14:32:24 - INFO - New chat msg from socket [id: 2BmuGvK2hGcpLJj1AAAJ], emitting to topic 6995a41414a694e6d2ca6d87 
+18.2.2026, 14:35:25 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:35:27 - INFO - Socket disconnected [id: undefined] 
+18.2.2026, 14:35:27 - INFO - New connected socket [id: 6wC7KcnWFt9dwfeSAAAN] 
+18.2.2026, 14:35:27 - INFO - Setting socket.userId = 69543edc2342b32b936d9f59 for socket [id: 6wC7KcnWFt9dwfeSAAAN] 
+18.2.2026, 14:35:28 - INFO - New connected socket [id: Aq2165XTGoxJwsdxAAAP] 
+18.2.2026, 14:35:28 - INFO - Setting socket.userId = 694b10ddd2b8f72580d122e1 for socket [id: Aq2165XTGoxJwsdxAAAP] 
+18.2.2026, 14:39:34 - INFO - Toys updated 
+18.2.2026, 14:39:34 - INFO - Socket is leaving topic 6995a41414a694e6d2ca6d87 [id: Aq2165XTGoxJwsdxAAAP] 
+18.2.2026, 14:39:34 - INFO - Toys updated 
+18.2.2026, 14:39:35 - INFO - Socket is leaving topic toys [id: Aq2165XTGoxJwsdxAAAP] 
+18.2.2026, 14:39:39 - INFO - Toys updated 
+18.2.2026, 14:39:39 - INFO - Socket is leaving topic 6995a41414a694e6d2ca6d87 [id: 6wC7KcnWFt9dwfeSAAAN] 
+18.2.2026, 14:39:39 - INFO - Toys updated 
+18.2.2026, 14:39:40 - INFO - Socket is leaving topic toys [id: 6wC7KcnWFt9dwfeSAAAN] 
